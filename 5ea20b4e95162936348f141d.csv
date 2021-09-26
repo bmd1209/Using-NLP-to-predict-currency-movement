@@ -1,0 +1,587 @@
+,date,timestamp,close,target,VEC.timestamp,VEC.COINJOURNA.text_COUNT_last1days:bitcoin,VEC.COINJOURNA.text_last1days:bitcoin
+0,01-01-2020 17:00:00,1577898000.0,7200.85,1,1577898000,0,[]
+1,02-01-2020 17:00:00,1577984400.0,6965.71,0,1577984400,0,[]
+2,03-01-2020 17:00:00,1578070800.0,7344.96,1,1578070800,0,[]
+3,04-01-2020 17:00:00,1578157200.0,7354.11,1,1578157200,0,[]
+4,05-01-2020 17:00:00,1578243600.0,7358.75,1,1578243600,0,[]
+5,06-01-2020 17:00:00,1578330000.0,7758.0,1,1578330000,0,[]
+6,07-01-2020 17:00:00,1578416400.0,8145.28,1,1578416400,0,[]
+7,08-01-2020 17:00:00,1578502800.0,8055.98,0,1578502800,0,[]
+8,09-01-2020 17:00:00,1578589200.0,7817.76,0,1578589200,0,[]
+9,10-01-2020 17:00:00,1578675600.0,8197.02,1,1578675600,0,[]
+10,11-01-2020 17:00:00,1578762000.0,8020.01,0,1578762000,0,[]
+11,12-01-2020 17:00:00,1578848400.0,8184.98,1,1578848400,0,[]
+12,13-01-2020 17:00:00,1578934800.0,8110.34,0,1578934800,1,['the latest bitcoin & cryptocurrency news from coinjournal - ']
+13,14-01-2020 17:00:00,1579021200.0,8810.01,1,1579021200,0,[]
+14,15-01-2020 17:00:00,1579107600.0,8821.41,1,1579107600,0,[]
+15,16-01-2020 17:00:00,1579194000.0,8720.01,0,1579194000,0,[]
+16,17-01-2020 17:00:00,1579280400.0,8913.28,1,1579280400,0,[]
+17,18-01-2020 17:00:00,1579366800.0,8915.96,1,1579366800,0,[]
+18,19-01-2020 17:00:00,1579453200.0,8701.7,0,1579453200,0,[]
+19,20-01-2020 17:00:00,1579539600.0,8642.35,0,1579539600,0,[]
+20,21-01-2020 17:00:00,1579626000.0,8736.03,1,1579626000,0,[]
+21,22-01-2020 17:00:00,1579712400.0,8682.36,0,1579712400,0,[]
+22,23-01-2020 17:00:00,1579798800.0,8404.52,0,1579798800,0,[]
+23,24-01-2020 17:00:00,1579885200.0,8439.0,1,1579885200,0,[]
+24,25-01-2020 17:00:00,1579971600.0,8340.58,0,1579971600,0,[]
+25,26-01-2020 17:00:00,1580058000.0,8615.0,1,1580058000,0,[]
+26,27-01-2020 17:00:00,1580144400.0,8907.57,1,1580144400,0,[]
+27,28-01-2020 17:00:00,1580230800.0,9374.21,1,1580230800,0,[]
+28,29-01-2020 17:00:00,1580317200.0,9301.53,0,1580317200,0,[]
+29,30-01-2020 17:00:00,1580403600.0,9513.21,1,1580403600,0,[]
+30,31-01-2020 17:00:00,1580490000.0,9352.89,0,1580490000,0,[]
+31,01-02-2020 17:00:00,1580576400.0,9384.61,1,1580576400,0,[]
+32,02-02-2020 17:00:00,1580662800.0,9331.51,0,1580662800,0,[]
+33,03-02-2020 17:00:00,1580749200.0,9292.24,0,1580749200,0,[]
+34,04-02-2020 17:00:00,1580835600.0,9197.02,0,1580835600,0,[]
+35,05-02-2020 17:00:00,1580922000.0,9612.04,1,1580922000,0,[]
+36,06-02-2020 17:00:00,1581008400.0,9772.0,1,1581008400,0,[]
+37,07-02-2020 17:00:00,1581094800.0,9813.73,1,1581094800,0,[]
+38,08-02-2020 17:00:00,1581181200.0,9895.05,1,1581181200,0,[]
+39,09-02-2020 17:00:00,1581267600.0,10151.75,1,1581267600,0,[]
+40,10-02-2020 17:00:00,1581354000.0,9851.83,0,1581354000,0,[]
+41,11-02-2020 17:00:00,1581440400.0,10223.08,1,1581440400,0,[]
+42,12-02-2020 17:00:00,1581526800.0,10326.46,1,1581526800,0,[]
+43,13-02-2020 17:00:00,1581613200.0,10229.63,0,1581613200,0,[]
+44,14-02-2020 17:00:00,1581699600.0,10344.36,1,1581699600,0,[]
+45,15-02-2020 17:00:00,1581786000.0,9904.72,0,1581786000,0,[]
+46,16-02-2020 17:00:00,1581872400.0,9917.27,1,1581872400,0,[]
+47,17-02-2020 17:00:00,1581958800.0,9706.0,0,1581958800,0,[]
+48,18-02-2020 17:00:00,1582045200.0,10164.71,1,1582045200,0,[]
+49,19-02-2020 17:00:00,1582131600.0,9593.79,0,1582131600,0,[]
+50,20-02-2020 17:00:00,1582218000.0,9596.42,1,1582218000,0,[]
+51,21-02-2020 17:00:00,1582304400.0,9677.05,1,1582304400,0,[]
+52,22-02-2020 17:00:00,1582390800.0,9650.86,0,1582390800,0,[]
+53,23-02-2020 17:00:00,1582477200.0,9936.4,1,1582477200,0,[]
+54,24-02-2020 17:00:00,1582563600.0,9656.13,0,1582563600,0,[]
+55,25-02-2020 17:00:00,1582650000.0,9315.84,0,1582650000,0,[]
+56,26-02-2020 17:00:00,1582736400.0,8785.25,0,1582736400,0,[]
+57,27-02-2020 17:00:00,1582822800.0,8823.21,1,1582822800,0,[]
+58,28-02-2020 17:00:00,1582909200.0,8692.91,0,1582909200,0,[]
+59,29-02-2020 17:00:00,1582995600.0,8523.61,0,1582995600,0,[]
+60,01-03-2020 17:00:00,1583082000.0,8531.88,1,1583082000,0,[]
+61,02-03-2020 17:00:00,1583168400.0,8915.24,1,1583168400,0,[]
+62,03-03-2020 17:00:00,1583254800.0,8760.07,0,1583254800,0,[]
+63,04-03-2020 17:00:00,1583341200.0,8750.87,0,1583341200,0,[]
+64,06-03-2020 17:00:00,1583514000.0,9131.88,1,1583514000,0,[]
+65,07-03-2020 17:00:00,1583600400.0,8886.66,0,1583600400,0,[]
+66,08-03-2020 17:00:00,1583686800.0,8166.89,0,1583686800,0,[]
+67,09-03-2020 17:00:00,1583773200.0,7879.31,0,1583773200,0,[]
+68,10-03-2020 17:00:00,1583859600.0,7894.56,0,1583859600,0,[]
+69,12-03-2020 17:00:00,1584032400.0,4800.0,0,1584032400,0,[]
+70,14-03-2020 17:00:00,1584205200.0,5172.06,0,1584205200,0,[]
+71,16-03-2020 17:00:00,1584378000.0,5028.97,0,1584378000,0,[]
+72,18-03-2020 17:00:00,1584550800.0,5393.04,1,1584550800,0,[]
+73,20-03-2020 17:00:00,1584723600.0,6208.36,1,1584723600,0,[]
+74,22-03-2020 17:00:00,1584896400.0,5816.19,0,1584896400,0,[]
+75,23-03-2020 17:00:00,1584982800.0,6467.31,1,1584982800,0,[]
+76,26-03-2020 04:01:05,1585195265.0,6677.43,0,1585195265,0,[]
+77,31-03-2020 17:00:00,1585674000.0,6410.44,1,1585674000,0,[]
+78,01-04-2020 17:00:00,1585760400.0,6642.92,1,1585760400,0,[]
+79,02-04-2020 17:00:00,1585846800.0,6794.09,1,1585846800,0,[]
+80,03-04-2020 17:00:00,1585933200.0,6734.1,0,1585933200,0,[]
+81,04-04-2020 17:00:00,1586019600.0,6856.99,1,1586019600,0,[]
+82,05-04-2020 17:00:00,1586106000.0,6772.78,0,1586106000,0,[]
+83,06-04-2020 17:00:00,1586192400.0,7329.9,1,1586192400,0,[]
+84,07-04-2020 17:00:00,1586278800.0,7197.32,0,1586278800,0,[]
+85,11-04-2020 17:00:00,1586624400.0,6876.83,1,1586624400,0,[]
+86,14-04-2020 17:00:00,1586883600.0,6868.7,1,1586883600,0,[]
+87,15-04-2020 17:00:00,1586970000.0,6621.24,0,1586970000,0,[]
+88,16-04-2020 17:00:00,1587056400.0,7101.94,1,1587056400,0,[]
+89,17-04-2020 17:00:00,1587142800.0,7027.55,0,1587142800,0,[]
+90,18-04-2020 17:00:00,1587229200.0,7248.6,1,1587229200,0,[]
+91,19-04-2020 17:00:00,1587315600.0,7120.74,0,1587315600,0,[]
+92,20-04-2020 17:00:00,1587402000.0,6826.83,0,1587402000,0,[]
+93,21-04-2020 17:00:00,1587488400.0,6841.37,1,1587488400,0,[]
+94,22-04-2020 17:00:00,1587574800.0,7125.14,1,1587574800,0,[]
+95,23-04-2020 17:00:00,1587661200.0,7482.39,1,1587661200,0,[]
+96,24-04-2020 17:00:00,1587747600.0,7505.0,1,1587747600,0,[]
+97,25-04-2020 17:00:00,1587834000.0,7538.67,1,1587834000,0,[]
+98,26-04-2020 17:00:00,1587920400.0,7693.1,1,1587920400,0,[]
+99,27-04-2020 17:00:00,1588006800.0,7774.62,1,1588006800,0,[]
+100,28-04-2020 17:00:00,1588093200.0,7738.98,0,1588093200,0,[]
+101,29-04-2020 17:00:00,1588179600.0,8778.57,1,1588179600,0,[]
+102,30-04-2020 17:00:00,1588266000.0,8620.0,0,1588266000,0,[]
+103,01-05-2020 17:00:00,1588352400.0,8826.96,1,1588352400,0,[]
+104,02-05-2020 17:00:00,1588438800.0,8972.05,1,1588438800,0,[]
+105,03-05-2020 17:00:00,1588525200.0,8894.16,0,1588525200,0,[]
+106,04-05-2020 17:00:00,1588611600.0,8871.96,0,1588611600,0,[]
+107,05-05-2020 17:00:00,1588698000.0,9021.83,1,1588698000,0,[]
+108,06-05-2020 17:00:00,1588784400.0,9142.92,1,1588784400,0,[]
+109,07-05-2020 17:00:00,1588870800.0,9986.4,1,1588870800,0,[]
+110,08-05-2020 17:00:00,1588957200.0,9800.01,0,1588957200,0,[]
+111,09-05-2020 17:00:00,1589043600.0,9539.4,0,1589043600,0,[]
+112,10-05-2020 17:00:00,1589130000.0,8722.77,0,1589130000,0,[]
+113,11-05-2020 17:00:00,1589216400.0,8561.52,0,1589216400,0,[]
+114,12-05-2020 17:00:00,1589302800.0,8810.79,1,1589302800,0,[]
+115,13-05-2020 17:00:00,1589389200.0,9309.37,1,1589389200,0,[]
+116,14-05-2020 17:00:00,1589475600.0,9791.98,1,1589475600,0,[]
+117,15-05-2020 17:00:00,1589562000.0,9316.42,0,1589562000,0,[]
+118,16-05-2020 17:00:00,1589648400.0,9381.27,1,1589648400,0,[]
+119,17-05-2020 17:00:00,1589734800.0,9680.04,1,1589734800,0,[]
+120,18-05-2020 17:00:00,1589821200.0,9733.93,1,1589821200,0,[]
+121,19-05-2020 17:00:00,1589907600.0,9775.53,1,1589907600,0,[]
+122,20-05-2020 17:00:00,1589994000.0,9511.43,0,1589994000,0,[]
+123,21-05-2020 17:00:00,1590080400.0,9068.65,0,1590080400,0,[]
+124,22-05-2020 17:00:00,1590166800.0,9170.0,1,1590166800,0,[]
+125,23-05-2020 17:00:00,1590253200.0,9179.15,1,1590253200,0,[]
+126,24-05-2020 17:00:00,1590339600.0,8720.34,0,1590339600,0,[]
+127,25-05-2020 17:00:00,1590426000.0,8900.35,1,1590426000,0,[]
+128,26-05-2020 17:00:00,1590512400.0,8841.18,0,1590512400,0,[]
+129,27-05-2020 17:00:00,1590598800.0,9204.07,1,1590598800,0,[]
+130,28-05-2020 17:00:00,1590685200.0,9575.89,1,1590685200,0,[]
+131,29-05-2020 17:00:00,1590771600.0,9427.07,0,1590771600,0,[]
+132,30-05-2020 17:00:00,1590858000.0,9697.72,1,1590858000,0,[]
+133,31-05-2020 17:00:00,1590944400.0,9448.27,0,1590944400,0,[]
+134,01-06-2020 17:00:00,1591030800.0,10200.77,1,1591030800,0,[]
+135,02-06-2020 17:00:00,1591117200.0,9518.04,0,1591117200,0,[]
+136,03-06-2020 17:00:00,1591203600.0,9666.24,1,1591203600,0,[]
+137,04-06-2020 17:00:00,1591290000.0,9789.06,1,1591290000,0,[]
+138,05-06-2020 17:00:00,1591376400.0,9621.16,0,1591376400,0,[]
+139,06-06-2020 17:00:00,1591462800.0,9666.3,1,1591462800,0,[]
+140,07-06-2020 17:00:00,1591549200.0,9746.99,1,1591549200,0,[]
+141,08-06-2020 17:00:00,1591635600.0,9782.01,1,1591635600,0,[]
+142,09-06-2020 17:00:00,1591722000.0,9772.43,0,1591722000,0,[]
+143,10-06-2020 17:00:00,1591808400.0,9885.0,1,1591808400,0,[]
+144,11-06-2020 17:00:00,1591894800.0,9280.4,0,1591894800,0,[]
+145,12-06-2020 17:00:00,1591981200.0,9465.13,1,1591981200,0,[]
+146,13-06-2020 17:00:00,1592067600.0,9473.34,1,1592067600,0,[]
+147,14-06-2020 17:00:00,1592154000.0,9342.1,0,1592154000,0,[]
+148,15-06-2020 17:00:00,1592240400.0,9426.02,1,1592240400,0,[]
+149,16-06-2020 17:00:00,1592326800.0,9525.59,1,1592326800,0,[]
+150,17-06-2020 17:00:00,1592413200.0,9465.14,0,1592413200,1,['bitcoin recovers above 9500 can it break resistance at 10500 ']
+151,18-06-2020 17:00:00,1592499600.0,9386.32,0,1592499600,1,['nano analysis bulls eye up a new 2020 high ']
+152,19-06-2020 17:00:00,1592586000.0,9310.23,0,1592586000,1,['bitcoin still not part of chinas top 10 cryptocurrencies index ']
+153,20-06-2020 17:00:00,1592672400.0,9358.95,1,1592672400,0,[]
+154,21-06-2020 17:00:00,1592758800.0,9294.69,0,1592758800,0,[]
+155,22-06-2020 17:00:00,1592845200.0,9685.69,1,1592845200,0,[]
+156,23-06-2020 17:00:00,1592931600.0,9624.89,0,1592931600,0,[]
+157,24-06-2020 17:00:00,1593018000.0,9296.49,0,1593018000,1,['chainlink linkusd spikes 10 as bulls reach alltime high levels']
+158,25-06-2020 17:00:00,1593104400.0,9249.49,0,1593104400,0,[]
+159,26-06-2020 17:00:00,1593190800.0,9162.21,0,1593190800,0,[]
+160,28-06-2020 17:00:00,1593363600.0,8989.01,0,1593363600,0,[]
+161,29-06-2020 17:00:00,1593450000.0,9192.56,1,1593450000,1,['bitcoin gold price rises 24 ahead of monthly close ']
+162,30-06-2020 17:00:00,1593536400.0,9138.55,0,1593536400,0,[]
+163,01-07-2020 17:00:00,1593622800.0,9232.0,1,1593622800,1,['basic attention token market update batusd shows bullish signs ']
+164,02-07-2020 17:00:00,1593709200.0,9086.54,0,1593709200,2,"['russian court rules stolen bitcoin cannot be returned to the owner', 'new legislation could cause bitcoin major problems in the us ']"
+165,03-07-2020 17:00:00,1593795600.0,9058.26,0,1593795600,1,['bears look to pull bitcoin down to 8600 as bollinger bands tighten their squeeze ']
+166,04-07-2020 17:00:00,1593882000.0,9135.46,1,1593882000,0,[]
+167,05-07-2020 17:00:00,1593968400.0,9069.41,0,1593968400,0,[]
+168,06-07-2020 17:00:00,1594054800.0,9344.2,1,1594054800,1,['bitcoin cash analysis price moves towards key trendline ']
+169,07-07-2020 17:00:00,1594141200.0,9257.39,0,1594141200,2,"['crypto market analysis bitcoin ethereum and bitcoin sv ', 'the block research says interest in bitcoin now much lower than in 2017 ']"
+170,08-07-2020 17:00:00,1594227600.0,9436.06,1,1594227600,2,"['chainlink price shoots for the moon as a 25 boost takes it to 617 ', 'australian times explains bitcoin ethereum and the rise of defi to readers ']"
+171,09-07-2020 17:00:00,1594314000.0,9232.43,0,1594314000,1,['xrp price drop looms despite surge to 0205 ']
+172,10-07-2020 17:00:00,1594400400.0,9288.34,1,1594400400,2,"['bitcoin price failed breakout puts bears on course for 8000 ', 'stellar price analysis 60 rally could be inbound ']"
+173,11-07-2020 17:00:00,1594486800.0,9234.03,0,1594486800,0,[]
+174,12-07-2020 17:00:00,1594573200.0,9302.75,1,1594573200,0,[]
+175,13-07-2020 17:00:00,1594659600.0,9242.62,0,1594659600,1,['bitcoins network strength peaks as hash rate surges to new alltime high ']
+176,14-07-2020 17:00:00,1594746000.0,9255.85,1,1594746000,2,"['chainlink and tezos bulls aim for new highs ', 'former us presidential campaign manager is a parttime bitcoin miner ']"
+177,15-07-2020 17:00:00,1594832400.0,9197.6,0,1594832400,2,"['chainlink could moon to 20 if bitcoin doesnt dump ', 'wall street pumps following vaccine news while bitcoin struggles ']"
+178,16-07-2020 17:00:00,1594918800.0,9133.72,0,1594918800,2,"['ethereum price update bears wobble below 240 ', 'bitcoin drops through support after twitter hack ']"
+179,18-07-2020 17:00:00,1595091600.0,9164.82,1,1595091600,0,[]
+180,19-07-2020 17:00:00,1595178000.0,9208.99,1,1595178000,0,[]
+181,20-07-2020 17:00:00,1595264400.0,9160.78,0,1595264400,2,"['ethereum bulls might decimate the bears ', 'pentagon plans to trace bitcoin transactions ']"
+182,21-07-2020 17:00:00,1595350800.0,9390.0,1,1595350800,2,"['comp token might be looking at another 300 rally ', 'grayscale ceo says bitcoin ban is impossible ']"
+183,22-07-2020 17:00:00,1595437200.0,9518.16,1,1595437200,0,[]
+184,23-07-2020 17:00:00,1595523600.0,9603.27,1,1595523600,1,['bitcoin and ethereum rise to 9500 and 269 as bulls take control ']
+185,24-07-2020 17:00:00,1595610000.0,9537.8,0,1595610000,0,[]
+186,25-07-2020 17:00:00,1595696400.0,9700.42,1,1595696400,0,[]
+187,26-07-2020 17:00:00,1595782800.0,9931.54,1,1595782800,0,[]
+188,27-07-2020 17:00:00,1595869200.0,11029.96,1,1595869200,1,['bitcoin explodes to 10336 after building over the weekend ']
+189,28-07-2020 17:00:00,1595955600.0,10906.27,0,1595955600,1,['bitcoin spikes to 11395 as dominance reaches 64 ']
+190,29-07-2020 17:00:00,1596042000.0,11100.53,1,1596042000,0,[]
+191,31-07-2020 17:00:00,1596214800.0,11335.46,1,1596214800,1,['bitcoin fees increase as hash rate hits new high ']
+192,01-08-2020 17:00:00,1596301200.0,11801.17,1,1596301200,0,[]
+193,02-08-2020 17:00:00,1596387600.0,11071.35,0,1596387600,0,[]
+194,03-08-2020 17:00:00,1596474000.0,11219.81,1,1596474000,2,"['bitcoin ethereum and xrp analysis of july heading into august ', 'ethereum blockchain now holds over 20000 tokenized bitcoins ']"
+195,04-08-2020 17:00:00,1596560400.0,11191.97,0,1596560400,1,['bitcoin dominance drops to 604 as altcoins surge ']
+196,05-08-2020 17:00:00,1596646800.0,11744.91,1,1596646800,2,"['bitcoin cash and ethereum classic price analysis ', 'alleged bitcoin fraudster faces money laundering charges in france ']"
+197,06-08-2020 17:00:00,1596733200.0,11762.46,1,1596733200,0,[]
+198,07-08-2020 17:00:00,1596819600.0,11594.23,0,1596819600,1,['nearly 14 of total bitcoin supply held by retail investors ']
+199,08-08-2020 17:00:00,1596906000.0,11761.41,1,1596906000,0,[]
+200,10-08-2020 17:00:00,1597078800.0,11892.92,1,1597078800,1,['bitcoin breaks 12000 over the weekend ']
+201,11-08-2020 17:00:00,1597165200.0,11392.08,0,1597165200,2,"['cosmos plummets 8 after violent rejection at 580 ', 'tezos bulls fall short of alltime high ']"
+202,12-08-2020 17:00:00,1597251600.0,11564.33,1,1597251600,2,"['bitcoins correlation with gold hits alltime high ', 'microstrategy buys 21454 bitcoins  claims its better than cash ']"
+203,13-08-2020 17:00:00,1597338000.0,11780.0,1,1597338000,0,[]
+204,15-08-2020 17:00:00,1597510800.0,11852.4,1,1597510800,0,[]
+205,16-08-2020 17:00:00,1597597200.0,11911.0,1,1597597200,0,[]
+206,17-08-2020 17:00:00,1597683600.0,12281.13,1,1597683600,0,[]
+207,18-08-2020 17:00:00,1597770000.0,11945.01,0,1597770000,0,[]
+208,19-08-2020 17:00:00,1597856400.0,11754.59,0,1597856400,0,[]
+209,20-08-2020 17:00:00,1597942800.0,11853.55,1,1597942800,0,[]
+210,22-08-2020 17:00:00,1598115600.0,11662.96,1,1598115600,0,[]
+211,23-08-2020 17:00:00,1598202000.0,11648.13,0,1598202000,0,[]
+212,24-08-2020 17:00:00,1598288400.0,11748.2,1,1598288400,0,[]
+213,25-08-2020 17:00:00,1598374800.0,11318.42,0,1598374800,0,[]
+214,26-08-2020 17:00:00,1598461200.0,11461.43,1,1598461200,1,"['bears eyeing bitcoin at 10,900 after testing 11,079 https://t_co/zc48do2el4 ']"
+215,27-08-2020 17:00:00,1598547600.0,11330.38,0,1598547600,0,[]
+216,28-08-2020 17:00:00,1598634000.0,11526.91,1,1598634000,2,"['polkadot (dot) hits major resistance after rallying 200% https://t_co/fd9sjf21ta ', 'bitcoin may see 14,000 by the end of august 2020 https://t_co/rjvzvjhk4e ']"
+217,30-08-2020 17:00:00,1598806800.0,11711.16,1,1598806800,0,[]
+218,31-08-2020 17:00:00,1598893200.0,11649.51,0,1598893200,1,['ethereum options data is bullish following two-year high https://t_co/ijkhqwcszq ']
+219,01-09-2020 17:00:00,1598979600.0,11921.97,1,1598979600,0,[]
+220,02-09-2020 17:00:00,1599066000.0,11388.54,0,1599066000,1,['elon musk confirms bitcoin ransomware attack on tesla https://t_co/a3j9rtmzae ']
+221,03-09-2020 17:00:00,1599152400.0,10140.85,0,1599152400,4,"['columbian presidents name used for bitcoin scam ', 'misery for bulls as bitcoin flops to 11100 again ', 'columbian presidents name used for bitcoin scam httpstcom0wqdhwv9t ', 'misery for bulls as bitcoin flops to 11,100, again https://t_co/o4gll6zx4d ']"
+222,04-09-2020 17:00:00,1599238800.0,10446.25,1,1599238800,4,"['bitcoin dips 10% to hit new multi-month low around 10,000 https://t_co/vrmpccrmgr ', 'bitcoin dips 10 to hit new multimonth low around 10000 ', 'nearly 1b wiped off defi tvl amid crypto market selloff ', 'nearly 1b wiped off defi tvl amid crypto market sell-off https://t_co/pi5d4bf3oa ']"
+223,06-09-2020 17:00:00,1599411600.0,10256.2,1,1599411600,0,[]
+224,07-09-2020 17:00:00,1599498000.0,10373.44,1,1599498000,0,[]
+225,08-09-2020 17:00:00,1599584400.0,10126.65,0,1599584400,2,"['more than 72,000 bitcoin tokenized on the ethereum blockchain https://t_co/5yykumx8qd ', 'ethereum blockchain now houses 700 million worth of synthetic bitcoin https://t_co/i4wqekfokt ']"
+226,13-09-2020 17:00:00,1600016400.0,10332.83,0,1600016400,0,[]
+227,14-09-2020 17:00:00,1600102800.0,10671.77,1,1600102800,1,['bitcoin hashrate hits 1352 ehs as miners bullishness continues httpstco7q640ueujz ']
+228,15-09-2020 17:00:00,1600189200.0,10785.31,1,1600189200,0,[]
+229,20-09-2020 17:00:00,1600621200.0,10920.28,0,1600621200,0,[]
+230,21-09-2020 17:00:00,1600707600.0,10417.22,0,1600707600,2,"['microstrategy ceo embraces bitcoin maximalism https://t_co/ungmjclcpz ', 'mining difficulty jumps 11_3% as miners sell more amid btc/usd stagnation below 11,000 https://t_co/sorjkv12vs ']"
+231,22-09-2020 17:00:00,1600794000.0,10529.61,1,1600794000,2,"['ethereum price analysis: bulls aiming for 350 after 7% dip https://t_co/i43vxchgau ', 'iranian bitcoin miners to enjoy special electricity access']"
+232,24-09-2020 17:00:00,1600966800.0,10736.32,1,1600966800,2,"['bitcoin remains king of crypto despite 436 forks https://t_co/ktwlsx9ihe ', 'chainlink rebounds above usd 8_40 after bears sank it new weekly low https://t_co/eqadcxoatv ']"
+233,27-09-2020 17:00:00,1601226000.0,10774.25,1,1601226000,0,[]
+234,28-09-2020 17:00:00,1601312400.0,10696.12,0,1601312400,3,"['bitcoin confounds the bears to close above 10k for 9th consecutive week https://t_co/2d4knoegrl ', 'bitcoin portrays the future of online security: twitter ceo https://t_co/8lbz6ghnup ', 'cardanos bullish case strengthens as iohk and un team up httpstcodmekrjaen4 ']"
+235,29-09-2020 17:00:00,1601398800.0,10840.48,1,1601398800,1,['grayscale now holds over 2% of bitcoin supply https://t_co/ezcmxxgvuw ']
+236,01-10-2020 17:00:00,1601571600.0,10619.13,0,1601571600,2,"['new bitcoin buyers enter market but price still stagnating at 10k https://t_co/hmyuacpzdz ', 'hodlers have 63 of the total bitcoin supply  study finds httpstcocelevw5fm6 ']"
+237,02-10-2020 17:00:00,1601658000.0,10570.4,0,1601658000,4,"['crypto prices down as trump announces he tested positive for covid-19', 'bitmex in trouble as btc/usd slips to usd 10,400 https://t_co/k495qsc4a1 ', 'bitmex in trouble as btc/usd slips to usd 10,400', 'crypto prices down as trump announces he tested positive for covid-19 https://t_co/jvdk0xyteu ']"
+238,03-10-2020 17:00:00,1601744400.0,10542.06,0,1601744400,0,[]
+239,04-10-2020 17:00:00,1601830800.0,10666.63,1,1601830800,0,[]
+240,05-10-2020 17:00:00,1601917200.0,10792.21,1,1601917200,4,"['bitcoin providing relief to egyptians suffering job losses', 'bitcoin providing relief to egyptians suffering job losses https://t_co/r7n2fu5pns ', 'bitcoin to see 100,000 by 2025: says analyst', 'bitcoin to see 100,000 by 2025: says analyst https://t_co/qfm68ev69h ']"
+241,06-10-2020 17:00:00,1602003600.0,10599.66,0,1602003600,0,[]
+242,07-10-2020 17:00:00,1602090000.0,10666.39,1,1602090000,0,[]
+243,08-10-2020 17:00:00,1602176400.0,10925.57,1,1602176400,2,"['total value locked in wrapped bitcoin hits 1bn', 'yearn finance (yfi) dives 20% as bears target 12,000']"
+244,10-10-2020 17:00:00,1602349200.0,11293.22,1,1602349200,0,[]
+245,11-10-2020 17:00:00,1602435600.0,11369.02,1,1602435600,0,[]
+246,12-10-2020 17:00:00,1602522000.0,11528.25,1,1602522000,2,"['mysterious holder moves 1,000 satoshi-era bitcoins', 'bitcoins weekly rsi suggests breakout above 12000']"
+247,13-10-2020 17:00:00,1602608400.0,11420.56,0,1602608400,2,"['bitcoin cash stalling below key resistance line', 'cardanos technicals suggests a bullish run above 01200']"
+248,14-10-2020 17:00:00,1602694800.0,11417.89,0,1602694800,1,['ethereum rally to 400 faces one major barrier']
+249,16-10-2020 17:00:00,1602867600.0,11319.32,0,1602867600,1,['bitcoin drops 3% after okex suspends all withdrawals']
+250,17-10-2020 17:00:00,1602954000.0,11360.2,1,1602954000,0,[]
+251,18-10-2020 17:00:00,1603040400.0,11503.14,1,1603040400,0,[]
+252,19-10-2020 17:00:00,1603126800.0,11751.47,1,1603126800,1,"['bitcoin showing strength above 11,400']"
+253,20-10-2020 17:00:00,1603213200.0,11909.99,1,1603213200,2,"['bitcoin mixer operator slapped with a penalty of 60 million', 'ethereums price dips as bulls risk losing upward momentum']"
+254,21-10-2020 17:00:00,1603299600.0,12780.96,1,1603299600,2,"['bitcoin price hits 12,300 as bulls eye new bull run', 'bitcoin transaction value sees 500% upswing in 4 months']"
+255,22-10-2020 17:00:00,1603386000.0,12968.52,1,1603386000,0,[]
+256,23-10-2020 17:00:00,1603472400.0,12923.07,0,1603472400,0,[]
+257,25-10-2020 17:00:00,1603645200.0,13028.83,0,1603645200,0,[]
+258,26-10-2020 17:00:00,1603731600.0,13052.19,1,1603731600,1,['investors bullish on bitcoin as us election week rolls in']
+259,27-10-2020 17:00:00,1603818000.0,13636.17,1,1603818000,1,"['bitcoin holds 13,000 even as hash rate slumps']"
+260,28-10-2020 17:00:00,1603904400.0,13266.4,0,1603904400,1,['only one resistance level above bitcoins rally to 20000  analyst']
+261,30-10-2020 17:00:00,1604077200.0,13560.1,1,1604077200,1,"['chainlink price analysis: link vulnerable if bitcoin fails to hold above 13,000']"
+262,31-10-2020 17:00:00,1604163600.0,13791.0,1,1604163600,0,[]
+263,01-11-2020 17:00:00,1604250000.0,13761.5,0,1604250000,0,[]
+264,02-11-2020 17:00:00,1604336400.0,13549.37,0,1604336400,1,['bitcoin hits 2nd highest monthly close to date near 14000 barrier']
+265,03-11-2020 17:00:00,1604422800.0,14023.53,1,1604422800,2,"['defi tokens plummet amid a crypto bloodbath', 'chainlink (link) charts bearish outlook as price drops below 10_50']"
+266,04-11-2020 17:00:00,1604509200.0,14144.01,1,1604509200,2,"['about 1b of bitcoin comes out of hibernation', 'bitcoin corrects sharply as markets react to the us election']"
+267,06-11-2020 17:00:00,1604682000.0,15579.92,0,1604682000,2,"['xrp remains weak despite bullish breakout to 0_255', 'btc hits 15,900 as bulls ignore the us election uncertainty']"
+268,07-11-2020 17:00:00,1604768400.0,14818.3,0,1604768400,0,[]
+269,08-11-2020 17:00:00,1604854800.0,15475.1,1,1604854800,0,[]
+270,09-11-2020 17:00:00,1604941200.0,15328.41,0,1604941200,2,"['price analysis: ada bulls look to flip critical resistance level', 'technical analysis: tezos bulls eye recovery near major support']"
+271,10-11-2020 17:00:00,1605027600.0,15297.21,0,1605027600,3,"['ex-microsoft employee sentenced over bitcoin tax fraud', 'bitcoin rebounds after flopping on pfizer vaccine news', 'covid19 has boosted crypto development  bitbay ceo interview']"
+272,11-11-2020 17:00:00,1605114000.0,15684.24,1,1605114000,1,['omg network flashes sell signal as bears look to take charge']
+273,15-11-2020 17:00:00,1605459600.0,15957.0,0,1605459600,0,[]
+274,17-11-2020 17:00:00,1605632400.0,17659.38,1,1605632400,1,['ethereum to surge to 530 if bulls break above parallel channel']
+275,18-11-2020 17:00:00,1605718800.0,17776.12,1,1605718800,1,"['bitcoin price sees 18,000']"
+276,18-11-2020 17:00:00,1605718800.0,17776.12,1,1605718800,1,"['bitcoin price sees 18,000']"
+277,19-11-2020 17:00:00,1605805200.0,17802.82,1,1605805200,1,"['bulls look to retake 18,000 after 10% fall in btc price']"
+278,20-11-2020 17:00:00,1605891600.0,18655.67,1,1605891600,3,"['bch on track for 300 amid growing bullish momentum', 'litecoin pumps to 83_97 as bears plot correction', 'simon peters: 20,000 is next target for bitcoin']"
+279,21-11-2020 17:00:00,1605978000.0,18703.8,1,1605978000,0,[]
+280,23-11-2020 17:00:00,1606150800.0,18260.13,0,1606150800,0,[]
+281,24-11-2020 17:00:00,1606237200.0,19160.01,1,1606237200,1,['technical analysis: xrp at 0_79 after parabolic 150% rally']
+282,25-11-2020 17:00:00,1606323600.0,18719.11,0,1606323600,0,[]
+283,26-11-2020 17:00:00,1606410000.0,17149.47,0,1606410000,2,"['zilliqa breakout fades as price dumps 20%', 'monex group ceo says digital yen will boost crypto market']"
+284,27-11-2020 17:00:00,1606496400.0,17139.52,0,1606496400,1,['iota sees downward pressure as altcoin sell-off continues']
+285,28-11-2020 17:00:00,1606582800.0,17719.85,1,1606582800,0,[]
+286,30-11-2020 17:00:00,1606755600.0,19695.87,1,1606755600,2,"['btc price- key levels to watch as bulls rally to 18,600', 'bitcoin stabilises above 18k as mining difficulty increases']"
+287,30-11-2020 17:00:00,1606755600.0,19695.87,1,1606755600,2,"['btc price- key levels to watch as bulls rally to 18,600', 'bitcoin stabilises above 18k as mining difficulty increases']"
+288,01-12-2020 17:00:00,1606842000.0,18764.96,0,1606842000,2,"['price analysis: ethereum, ripple, bitcoin cash', 'bitcoin mining difficulty is approaching a new all-time-high']"
+289,02-12-2020 17:00:00,1606928400.0,19204.09,1,1606928400,1,['chainlink price: bulls eye breakout to 17_00']
+290,03-12-2020 17:00:00,1607014800.0,19421.9,1,1607014800,0,[]
+291,05-12-2020 17:00:00,1607187600.0,19147.66,1,1607187600,0,[]
+292,06-12-2020 17:00:00,1607274000.0,19359.4,1,1607274000,0,[]
+293,07-12-2020 17:00:00,1607360400.0,19166.9,0,1607360400,3,"['the rich want to invest in bitcoin', 'digital yuan gains major support after initial airdrop', 'nem (xem) price analysis: bulls eye rebound to 0_30']"
+294,08-12-2020 17:00:00,1607446800.0,18324.11,0,1607446800,1,['ontology price outlook: bearish momentum likely to take ont to 0_38']
+295,09-12-2020 17:00:00,1607533200.0,18541.28,1,1607533200,0,[]
+296,10-12-2020 17:00:00,1607619600.0,18254.63,0,1607619600,0,[]
+297,13-12-2020 17:00:00,1607878800.0,19174.99,1,1607878800,0,[]
+298,14-12-2020 17:00:00,1607965200.0,19273.14,1,1607965200,0,[]
+299,15-12-2020 17:00:00,1608051600.0,19426.43,1,1608051600,0,[]
+300,16-12-2020 17:00:00,1608138000.0,21335.52,1,1608138000,0,[]
+301,17-12-2020 17:00:00,1608224400.0,22797.16,1,1608224400,0,[]
+302,20-12-2020 17:00:00,1608483600.0,23455.52,0,1608483600,0,[]
+303,26-12-2020 17:00:00,1609002000.0,26493.39,1,1609002000,0,[]
+304,28-12-2020 17:00:00,1609174800.0,27079.41,1,1609174800,0,[]
+305,29-12-2020 17:00:00,1609261200.0,27385.0,1,1609261200,0,[]
+306,30-12-2020 17:00:00,1609347600.0,28875.54,1,1609347600,1,['mexican billionaire lauds bitcoin as a good investment']
+307,02-01-2021 17:00:00,1609606800.0,32178.33,1,1609606800,0,[]
+308,03-01-2021 17:00:00,1609693200.0,33000.05,1,1609693200,0,[]
+309,04-01-2021 17:00:00,1609779600.0,31988.71,0,1609779600,2,"['litecoin rally fades as bitcoin slides towards 30,000', 'bitcoin price outlook: record rally sees btc top 34,000']"
+310,05-01-2021 17:00:00,1609866000.0,33949.53,1,1609866000,2,"['three arrows makes bitcoin purchase worth over 1 billion', 'celo (celo) sees impressive rally after binance listing']"
+311,06-01-2021 17:00:00,1609952400.0,36769.36,1,1609952400,5,"['grayscale ethereum trust shares plummet as eth price surges', 'price analysis: loopring rises amid positive fundamentals', 'bitpays cco predicts bitcoin is headed to 45k next month', 'bitcoin (btc) could reach 146k in the long term: jpmorgan', 'bitcoin price sees 35,000, eyes 40k as uptrend resumes']"
+312,07-01-2021 17:00:00,1610038800.0,39432.28,1,1610038800,2,"['bitcoin (btc) reaches 37k a few hours after topping 36k', 'tezos (xtz) looks for 30% breakout with bullish divergence']"
+313,08-01-2021 17:00:00,1610125200.0,40582.81,1,1610125200,3,"['bitcoin surpasses 40k briefly, continuing epic bull run', 'bitcoin price indicator suggests macro top imminent as btc hits 40k', 'finland to sell nearly 2,000 drug-linked bitcoins worth millions']"
+314,10-01-2021 17:00:00,1610298000.0,38150.02,0,1610298000,0,[]
+315,11-01-2021 17:00:00,1610384400.0,35404.47,0,1610384400,3,"['bar owner selling his new york bars for cryptocurrency', 'bitcoin etf could weaken price in the short term: jpmorgan', 'ethereum plunges to 1,000 following weekend sell-off']"
+316,12-01-2021 17:00:00,1610470800.0,34051.24,0,1610470800,1,['whales are manipulating the market as bitcoin (btc) dips']
+317,13-01-2021 17:00:00,1610557200.0,37371.38,1,1610557200,4,"['why bitcoin dropped to 30000 and where its headed next', 'altcoins poised to rally as next impulse wave targets 550 billion', 'bearish chart pattern suggests bitcoin could dump to 20k', 'rise of cbdcs could boost demand for privacy coins in 2021']"
+318,14-01-2021 17:00:00,1610643600.0,39144.5,1,1610643600,3,"['ecb president christine lagarde recommends global regulation of bitcoin', 'bitcoin climbs above 38,000 amid increased stablecoin inflows', 'bitcoin requires more institutional funds for stability: goldman sachs']"
+319,15-01-2021 17:00:00,1610730000.0,36742.22,0,1610730000,2,"['cosmos price analysis: bullish bias points atom towards 10', 'does the high price of bitcoin attract the attention of fraudsters?']"
+320,16-01-2021 17:00:00,1610816400.0,35994.98,0,1610816400,0,[]
+321,17-01-2021 17:00:00,1610902800.0,35828.61,0,1610902800,0,[]
+322,18-01-2021 17:00:00,1610989200.0,36631.27,1,1610989200,3,"['ark investment chief predicts more firms will invest in bitcoin', 'cfos rethink bitcoin investment due to massive price swing', 'bitcoin bulls struggling around 35,000 even as network hash rate rises']"
+323,19-01-2021 17:00:00,1611075600.0,35891.49,0,1611075600,4,"['price analysis: bitcoin cash (bch), cardano (ada) and vechain (vet)', 'bitcoin and ethereum start to recover from 11th january drop', 'ethereum poised for a breakout as bulls seek convincing break near 1,350', 'ruffer investment explains decision to purchase bitcoin']"
+324,21-01-2021 17:00:00,1611248400.0,30850.13,0,1611248400,2,"['bitcoin corrects as bulls seek threshold support at 35k', 'is bitcoins rise written in the stars']"
+325,22-01-2021 17:00:00,1611334800.0,32945.17,1,1611334800,3,"['curve dao price analysis: crv/usd soars 36% as major coins dump', 'bitcoin drops below 29k erasing most of its 2021 gains', 'bitcoin fractal hints at steeper correction if bulls fail to hold 30k']"
+326,23-01-2021 17:00:00,1611421200.0,32078.0,0,1611421200,0,[]
+327,24-01-2021 17:00:00,1611507600.0,32259.9,1,1611507600,0,[]
+328,25-01-2021 17:00:00,1611594000.0,32254.2,0,1611594000,2,"['uni hits record high above 13 as bulls target more gains', 'dash targets fresh rally to 140 amid a growing bullish scenario']"
+329,26-01-2021 17:00:00,1611680400.0,32467.77,1,1611680400,5,"['regulators should be worried about bitcoin: goldman sachs', 'bitcoin vs ethereum: third week of january 2021', 'bitcoin (btc) chart setup suggests fresh declines below 30k', 'is bitcoin going mainstream?', 'ethereum technical outlook is positive despite 8% dip']"
+330,27-01-2021 17:00:00,1611766800.0,30366.15,0,1611766800,1,['aave (aave) primed for 20% breakout if bulls protect gains above 260']
+331,30-01-2021 17:00:00,1612026000.0,34262.88,1,1612026000,0,[]
+332,31-01-2021 17:00:00,1612112400.0,33092.98,0,1612112400,0,[]
+333,01-02-2021 17:00:00,1612198800.0,33526.37,1,1612198800,4,"['#analysis #bitcoin bitcoin vs ethereum: musk tweet gives boost ahead of weekend', '#analysis #bitcoin bitcoin price poised for new highs after strong weekend', '#business #bitcoin microstrategy up 113% post stock downgrade thanks to bitcoin', '#business #bitcoin cryptocurrencies could join the visa payment network: ceo']"
+334,02-02-2021 17:00:00,1612285200.0,35466.24,1,1612285200,2,"['#business #bitcoin bitcoin (btc) active addresses reaches new all-time high', '#analysis #ethereum ethereum price incredibly bullish as bulls break above 1,400']"
+335,03-02-2021 17:00:00,1612371600.0,37618.87,1,1612371600,3,"['#business #bitcoin bitcoin could reach 500,000 if firms allocate resources', '#analysis #xrp xrp price retests key resistance level after pump-and-dump', '#pressrelease #dogecoin changenow honours dogecoin prices despite massive losses']"
+336,04-02-2021 17:00:00,1612458000.0,36936.66,0,1612458000,2,"['#analysis #litecoin litecoin price poised for a breakout to 250 amid increased buying', '#business #bitcoin']"
+337,09-02-2021 17:00:00,1612890000.0,46420.42,1,1612890000,2,"['#analysis #bitcoin bitcoin price records new ath above 48k after a historic 8800 daily candle', 'markets bitcoin bitcoin sets new alltime high at 47k following teslas news']"
+338,10-02-2021 17:00:00,1612976400.0,44807.58,0,1612976400,4,"['#business #bitcoin blockfi introduces its bitcoin trust to compete with gbtc', '#featured #bitcoin behind the bitcoin whales: who are they and how do they work', '#analysis #tezos tezos price analysis: xtz primed for a bullish breakout to 4_5', 'business bitcoin michael saylor launches free bitcoin for everybody course']"
+339,26-02-2021 17:00:00,1614358800.0,46276.87,0,1614358800,4,"['#analysis #bitcoin bitcoin (btc) price pivots off 50k once again to retest weekly lows', '#analysis #iota iota price analysis: negative momentum pushes iota near 1_00', '#business #bitcoin jpmorgan advises clients to invest 1% of funds in bitcoin', '#markets #bitcoin top crypto assets endure a tough week as defi blooms']"
+340,27-02-2021 17:00:00,1614445200.0,46106.43,0,1614445200,0,[]
+341,02-03-2021 17:00:00,1614704400.0,48440.65,0,1614704400,3,"['#analysis polkadot (dot) bulls target 42 after a strong bounce off support', '#opinion #bitcoin bitcoin has a place in some portfolios: fidelity director', 'surveysandreports bitcoin citibank reports bitcoins future is still uncertain']"
+342,03-03-2021 17:00:00,1614790800.0,50349.37,1,1614790800,4,"['#business #bitcoin bitcoin market cap can eclipse 300 trillion: max keiser', '#analysis #litecoin grayscale buys 174,000 litecoin: ltc price swings 11% on news', '#business #bitcoin sec chair nominee claims bitcoin has spurred new ideas', '#markets #bitcoin institutions bet on bitcoin price to rally to 75k or more by may']"
+343,04-03-2021 17:00:00,1614877200.0,48374.09,0,1614877200,3,"['#markets #bitcoin bitcoin whales are stockpiling btc around 48k: cryptoquant', '#business tim draper believes netflix could be next to invest in bitcoin', '#analysis #binancecoin binance coin price analysis: bnb bulls seek fresh impetus above 240']"
+344,10-03-2021 17:00:00,1615395600.0,55851.59,1,1615395600,2,"['#analysis nem (xem) price retraces by 12% despite symbol airdrop', '#analysis #tron tron price analysis: trx vulnerable to further losses below 0_052']"
+345,11-03-2021 17:00:00,1615482000.0,57773.16,1,1615482000,4,"['#markets #goldmansachs goldman sachs weighs up bitcoin amid surge in client interest', '#analysis #bitcoincash bitcoin cash (bch) price signals strong upside over 550 level', '#business #bitcoin israeli pension company invests 100m in bitcoin via gbtc', '#analysis #dogecoin dogecoin price: doge/usd could spike 93% if bulls break above 0_060']"
+346,15-03-2021 17:00:00,1615827600.0,55605.2,0,1615827600,3,"['#analysis #stellar stellar (xlm) price set for more losses below 0_38', '#analysis #bitcoin bitcoin hits new ath while ethereum faces resistance at 1_9k', '#analysis #bitcoin bitcoin price faces downside correction after flirting with 62k']"
+347,16-03-2021 17:00:00,1615914000.0,56900.75,1,1615914000,3,"['#analysis #binancecoin binance coin price analysis: bnb sell-off eases as bulls target 260', '#business #bitcoin 40 billion of the stimulus package could go into bitcoin', '#business #bitcoin france to auction 611 bitcoins worth 32 million']"
+348,17-03-2021 17:00:00,1616000400.0,58912.97,1,1616000400,2,"['#business #bitcoin visa chief believes crypto may become mainstream soon', '#markets #bitcoin bitcoin miner revenue reaches an unprecedented level']"
+349,18-03-2021 17:00:00,1616086800.0,57648.16,0,1616086800,5,"['#business #bitcoin morgan stanley offers wealthy clients access to bitcoin funds', '#business #bitcoin grayscale investment announces five new digital asset trusts', '#analysis #vechain vechain price analysis: vet bullish after rebounding off 0_072', 'opinion bitcoin billionaire howard marks admits being wrong about bitcoin', 'featured paybis 2021 guide  buy bitcoin easily']"
+350,19-03-2021 17:00:00,1616173200.0,58030.01,1,1616173200,3,"['#analysis #bitcoin bitcoin price refreshes key support after a pullback from 60k_ what next?', '#opinion #bitcoin deutsche bank says bitcoin is too important to ignore', '#analysis #bitcoincash bitcoin cash price analysis: bch bulls seek gains near 550']"
+351,19-03-2021 17:00:00,1616173200.0,58030.01,1,1616173200,3,"['#analysis #bitcoin bitcoin price refreshes key support after a pullback from 60k_ what next?', '#opinion #bitcoin deutsche bank says bitcoin is too important to ignore', '#analysis #bitcoincash bitcoin cash price analysis: bch bulls seek gains near 550']"
+352,20-03-2021 17:00:00,1616259600.0,58102.28,1,1616259600,0,[]
+353,20-03-2021 17:00:00,1616259600.0,58102.28,1,1616259600,0,[]
+354,21-03-2021 17:00:00,1616346000.0,57351.56,0,1616346000,0,[]
+355,21-03-2021 17:00:00,1616346000.0,57351.56,0,1616346000,0,[]
+356,22-03-2021 17:00:00,1616432400.0,54083.25,0,1616432400,4,"['#analysis #iota iota price analysis: bulls seek fresh upside to 1_60', '#analysis #bitcoin bitcoin dips at 60k while ethereum stalls at major resistance', '#opinion #bitcoin chinese miner predicts a bearish season for bitcoin', '#markets #bitcoin skybridge and first advisors apply for a bitcoin etf product']"
+357,23-03-2021 17:00:00,1616518800.0,54340.89,1,1616518800,1,['policyandregulation bitcoin bitcoin is a substitute for gold  not the dollar fed chair']
+358,24-03-2021 17:00:00,1616605200.0,52303.65,0,1616605200,1,['#analysis #bitcoin bitcoin rebounds above 55k as tesla starts accepting btc']
+359,25-03-2021 17:00:00,1616691600.0,51293.78,0,1616691600,4,"['opinion fca uks fca warns against young people buying crypto just for fun', 'analysis uniswap uniswap price 11 correction as bears push below 30  whats next', '#business #bitcoin you can now pay for tesla cars with bitcoin: elon musk', '#markets #bitcoin bitcoin price dip pushes its market cap below 1 trillion']"
+360,26-03-2021 17:00:00,1616778000.0,55025.59,1,1616778000,3,"['#markets #bitcoin weekly report: bitcoin etfs and cbdcs remain on the agenda', 'analysis bitcoin bitcoin price recovers above 53k as 6 billion options expire whats next', '#opinion #bitcoin ray dalio claims bitcoin could be outlawed in the us']"
+361,27-03-2021 17:00:00,1616864400.0,55817.14,1,1616864400,0,[]
+362,28-03-2021 17:00:00,1616950800.0,55777.63,0,1616950800,0,[]
+363,29-03-2021 17:00:00,1617037200.0,57635.47,1,1617037200,4,"['#opinion #bitcoin ark ceo believes bitcoin market cap will keep rising', '#analysis #zcash zcash price analysis: zec chart suggests a fresh rally above 150', '#markets #bitcoin nz fund manager had invested in btc when it was trading at 10k', '#analysis #dogecoin dogecoin (doge) shows weakness as bears restrict action below 0_055']"
+364,30-03-2021 17:00:00,1617123600.0,58746.57,1,1617123600,2,"['#analysis #bitcoin bitcoin reclaims 58k as bulls eye historically bullish april', '#analysis bitcoin and ethereum prices recovering after a week-long drop']"
+365,31-03-2021 17:00:00,1617210000.0,58740.55,0,1617210000,1,['#business #bitcoin paypal introduces crypto checkout service for us customers']
+366,01-04-2021 17:00:00,1617296400.0,58720.44,0,1617296400,2,"['analysis bitcoin bitcoin records sixth straight monthly green candle whats btcs price outlook', '#business #bitcoin goldman sachs to offer bitcoin investment vehicles soon']"
+367,02-04-2021 17:00:00,1617382800.0,58950.01,1,1617382800,0,[]
+368,03-04-2021 17:00:00,1617469200.0,57051.94,0,1617469200,0,[]
+369,03-04-2021 17:00:00,1617469200.0,57051.94,0,1617469200,0,[]
+370,04-04-2021 17:00:00,1617555600.0,58202.01,1,1617555600,0,[]
+371,05-04-2021 17:00:00,1617642000.0,59129.99,1,1617642000,0,[]
+372,06-04-2021 17:00:00,1617728400.0,57991.15,0,1617728400,4,"['#markets #bitcoin fully committed to launching a bitcoin etf: grayscale', '#analysis bitcoin corrects after reaching 60k while ether goes for a new ath', 'analysis bitcoin bitcoin looks to retest 60k heres why it could surge higher', '#markets #bitcoin microstrategy adds 15 million of bitcoin to its btc stash']"
+373,07-04-2021 17:00:00,1617814800.0,55953.45,0,1617814800,3,"['#policyandregulation #bitcoin goldman sachs chief predicts changes in crypto regulation', '#policyandregulation #bitcoin fidelity, coinbase and square establish a crypto council this month', 'markets bitcoin bitcoin rise and dollar slump will create chaos  mike novogratz']"
+374,08-04-2021 17:00:00,1617901200.0,58077.52,1,1617901200,3,"['analysis bitcoin bitcoins average hash rate trending at a new high', 'analysis cardano cardano bulls hold off bears around 120 whats next for ada', '#opinion #bitcoin paypal ceo fears china could leverage bitcoin as a weapon']"
+375,09-04-2021 17:00:00,1617987600.0,58142.54,1,1617987600,3,"['#markets #bitcoin weekly report: grayscale to convert its trust into etf product', '#analysis #bitcoin bitcoin (btc) set for bullish breakout with squeezed bollinger bands', '#markets #bitcoin nydig raises 100m and makes entry into the insurance sector']"
+376,10-04-2021 17:00:00,1618074000.0,59769.13,1,1618074000,0,[]
+377,11-04-2021 17:00:00,1618160400.0,60002.43,1,1618160400,0,[]
+378,12-04-2021 17:00:00,1618246800.0,59860.0,0,1618246800,4,"['#markets #bitcoin uk bank revolut adds support for 11 new crypto tokens', '#analysis #bitcoin bitcoin poised above 60k as coinbase ipo strengthens bullish outlook', '#markets #bitcoin real vision tv chief hails volatility as a good thing for crypto', '#analysis #vechain vechain price analysis: vet facing further losses below 0_13']"
+379,13-04-2021 17:00:00,1618333200.0,63575.0,1,1618333200,2,"['#opinion #bitcoin celsius chief executive urges investors to store bitcoin', '#analysis #tezos tezos price analysis: xtz remains bullish despite 14% pullback']"
+380,14-04-2021 17:00:00,1618419600.0,62959.53,0,1618419600,5,"['#business #bitcoin coinbase gets initial reference price of 250 from nasdaq', '#markets #coinbase top platforms where you can buy coinbase stock (coin) today', 'opinion bitcoin criminals dont use bitcoin to launder due its transparency', 'analysis bitcoin bitcoin rallies to 64895 heres why 70k could be next', '#markets #dogecoin the best place to buy dogecoin today']"
+381,15-04-2021 17:00:00,1618506000.0,63159.98,1,1618506000,1,['#markets #bitcoin coinbase launches on nasdaq at 380 initial price']
+382,16-04-2021 17:00:00,1618592400.0,61334.8,0,1618592400,3,"['#analysis #bitcoin price analysis: bitcoin, iota, stellar', '#markets #bitcoin weekly roundup: coinbase grabs headlines', '#business #bitcoin brevan howard asset management to invest in cryptos']"
+383,17-04-2021 17:00:00,1618678800.0,60006.66,0,1618678800,0,[]
+384,18-04-2021 17:00:00,1618765200.0,56150.01,0,1618765200,0,[]
+385,19-04-2021 17:00:00,1618851600.0,55633.14,0,1618851600,3,"['#opinion #bitcoin crypto analyst attributes bitcoin dip to power outage', 'opinion turkey could turkeys ban on cryptocurrencies be bullish news', '#analysis #iota iota price analysis: miota ready for fresh upside after weekend sell-off']"
+386,20-04-2021 17:00:00,1618938000.0,56425.0,1,1618938000,3,"['featured dogecoin will the meme coin fly on 420 where to buy doge stock right now', '#policyandregulation #bitcoin china considers crypto assets to be investment alternatives', '#analysis #bitcoin bitcoin price outlook: btc seeks to bounce off 54k after sell-off']"
+387,21-04-2021 17:00:00,1619024400.0,53787.63,0,1619024400,2,"['#business #bitcoin paypal-owned venmo adds cryptocurrency support', '#business #bitcoin wework adds bitcoin and crypto payments to its services']"
+388,22-04-2021 17:00:00,1619110800.0,51690.96,0,1619110800,2,"['#analysis #litecoin litecoin (ltc) price seeks fresh momentum as bulls hold key support', '#analysis #bitcoin bitcoin retests key support level as 53k threshold looms']"
+389,23-04-2021 17:00:00,1619197200.0,51125.14,0,1619197200,1,['#analysis #bitcoin bitcoin crashes 10% to move below 50k- what next for btc?']
+390,24-04-2021 17:00:00,1619283600.0,50047.84,0,1619283600,0,[]
+391,25-04-2021 17:00:00,1619370000.0,49066.77,0,1619370000,0,[]
+392,26-04-2021 17:00:00,1619456400.0,54001.39,1,1619456400,3,"['#analysis #ripple xrp rebounds above 1 amid bullish reversal signals', '#markets #binancecoin is bitcoin in decline after dominance dips below 50%?', '#analysis #neo neo price analysis: neo breaks downtrend as bulls target 100']"
+393,27-04-2021 17:00:00,1619542800.0,55011.97,1,1619542800,3,"['#business #bitcoin jpmorgan to provide wealthy clients access to bitcoin funds', '#analysis #litecoin litecoin price forecast: ltc bulls seek control above 250', '#markets #bitcoin tesla shows profit made with bitcoin sale in earnings report']"
+394,27-04-2021 17:00:00,1619542800.0,55011.97,1,1619542800,3,"['#business #bitcoin jpmorgan to provide wealthy clients access to bitcoin funds', '#analysis #litecoin litecoin price forecast: ltc bulls seek control above 250', '#markets #bitcoin tesla shows profit made with bitcoin sale in earnings report']"
+395,28-04-2021 17:00:00,1619629200.0,54846.22,0,1619629200,3,"['analysis bitcoin bitcoin price analysis heres why btc might refresh towards 60k', 'business bitcoin us bank to support nydigs bitcoin etf if approved', '#analysis #polygon polygon price analysis: matic corrects after 54% rally']"
+396,28-04-2021 17:00:00,1619629200.0,54846.22,0,1619629200,3,"['analysis bitcoin bitcoin price analysis heres why btc might refresh towards 60k', 'business bitcoin us bank to support nydigs bitcoin etf if approved', '#analysis #polygon polygon price analysis: matic corrects after 54% rally']"
+397,29-04-2021 17:00:00,1619715600.0,53555.0,0,1619715600,3,"['#analysis #cardano cardano price outlook: ada bulls target breakout and retest of 1_50', '#policyandregulation #bitcoin germany allows institutional funds to invest in cryptos', '#markets #broker how to buy dogelon mars (elon): best places to buy the meme crypto']"
+398,30-04-2021 17:00:00,1619802000.0,57694.27,1,1619802000,4,"['#business #bitcoin fidelity rolls out digital asset analytics tool sherlocksm', '#markets #bitcoin monthly report: ethereum sets new high as banks show support for crypto', '#analysis #bitcoin price analysis: ethereum, bitcoin, stellar', '#analysis #ripple ripple price analysis: xrp sees fresh upside as bulls push above 1_50']"
+399,01-05-2021 17:00:00,1619888400.0,57800.37,1,1619888400,0,[]
+400,01-05-2021 17:00:00,1619888400.0,57800.37,1,1619888400,0,[]
+401,02-05-2021 17:00:00,1619974800.0,56578.21,0,1619974800,0,[]
+402,03-05-2021 17:00:00,1620061200.0,57169.39,1,1620061200,0,[]
+403,04-05-2021 17:00:00,1620147600.0,53200.01,0,1620147600,5,"['#business #bitcoin ebay could add a crypto payment option, says ceo', '#analysis #bitcoin is ethereum decoupling from bitcoin?', '#analysis #bitcoin bitcoin below 57k as eth outpaces btc', '#analysis #ripple ripple price analysis: xrp bulls seek support above 1_50', '#markets #broker how to buy healthier choices management (hcmc): best places to buy hcmc shares']"
+404,05-05-2021 17:00:00,1620234000.0,57436.11,1,1620234000,6,"['events bitcoin sothebys to become first auction house to accept cryptocurrency in artwork sale', 'analysis bitcoin what were experiencing is nothing short of a sea change', '#analysis #iota iota price analysis: could a fresh rally above 2_00 be on its way?', '#analysis #bitcoin non-fungible token (nft) market begins to stabilise after turbulent first quarter', '#analysis #bitcoin s&p dow jones now offers cryptocurrency index series & s&p bitcoin index', '#markets #bitcoin ether options volume surpasses bitcoin for first time']"
+405,06-05-2021 17:00:00,1620320400.0,56393.68,0,1620320400,6,"['#business #bitcoin currencyworks announces zero-cost energy crypto mining platform', '#business #bitcoin coin metrics completes 15m series b round', '#analysis #bitcoincash bitcoin cash price: bch/usd resumes uptrend towards 1,500', '#analysis #polkadot polkadot price analysis: dot bullish as price holds above 200 dma', 'markets bitcoin nydig says bitcoin arriving at 100s of banks this year', '#markets #bitcoin betashares and vaneck file application for aussie etf']"
+406,07-05-2021 17:00:00,1620406800.0,57314.75,1,1620406800,3,"['#markets #bitcoin iran bans trading of any crypto mined outside its borders', '#markets #bitcoin weekly report: ebay exploring nfts and crypto payments', '#markets u_s_ receives small employment boost for hospitality and leisure: nfp report']"
+407,08-05-2021 17:00:00,1620493200.0,58862.05,1,1620493200,0,[]
+408,09-05-2021 17:00:00,1620579600.0,58240.84,0,1620579600,0,[]
+409,10-05-2021 17:00:00,1620666000.0,55816.14,0,1620666000,2,"['#markets #bitcoin vaneck wants to list the first ether etf in the us', '#analysis #ethereum ethereum passes 4,000, bulls look unstoppable']"
+410,11-05-2021 17:00:00,1620752400.0,56670.02,1,1620752400,0,[]
+411,12-05-2021 17:00:00,1620838800.0,49631.32,0,1620838800,0,[]
+412,13-05-2021 17:00:00,1620925200.0,49670.97,1,1620925200,1,['#markets #ethereum where to buy ethereum (eth) as it continues hitting new aths']
+413,14-05-2021 17:00:00,1621011600.0,49841.45,1,1621011600,5,"['#markets #dogecoin where to buy dogecoin (doge): will elon musk take the meme coin higher?', '#markets #bitcoin weekly report: bitcoin and ether etfs make headlines', 'markets eos new eospowered exchange to launch  where to buy eos', '#technology #bitcoin clean bitcoin mining project launched by argo and dmg', 'markets where to buy internet computer icp dfinitys scalability booster for the web']"
+414,15-05-2021 17:00:00,1621098000.0,46762.99,0,1621098000,0,[]
+415,15-05-2021 17:00:00,1621098000.0,46762.99,0,1621098000,0,[]
+416,16-05-2021 17:00:00,1621184400.0,46431.5,0,1621184400,0,[]
+417,17-05-2021 17:00:00,1621270800.0,43538.04,0,1621270800,3,"['#markets #bitcoin bitcoin is more energy-efficient than gold: galaxy digital report', 'markets cardano where to buy cardano ada  whats driving adas price', 'markets ethereum where to buy polygon matic  ethereums scalability booster']"
+418,18-05-2021 17:00:00,1621357200.0,42849.78,0,1621357200,3,"['markets defi where to buy safemoon whats behind the safemoon price rally', 'markets bitcoin bitcoin holders see opportunity in price correction  where do you buy btc', 'markets broker where to buy att stock t  a strong rival to netflix']"
+419,19-05-2021 17:00:00,1621443600.0,36690.09,0,1621443600,2,"['markets bitcoin bitcoin losses hit 385k  heres how to short bitcoin for profit', '#markets #bitcoin bitcoin sinks below 40k to hit 14-week low on bloody wednesday']"
+420,20-05-2021 17:00:00,1621530000.0,40526.64,1,1621530000,4,"['markets bitcoin bitcoin just witnessed a knockdown not knockout novogratz', '#markets could renewed interest in gamestop spark another rally?', 'markets cardano cardano ada recovers from crash to grow 25  where to buy ada', 'markets etoro pancakebunny bunny price outlook  where to buy bunny']"
+421,21-05-2021 17:00:00,1621616400.0,37252.01,0,1621616400,3,"['#analysis #bitcoin holo (hot) could spike 70% if this happens: top analyst', '#surveysandreports #bitcoin report: bitcoin to bounce back from black wednesday crash', '#markets #india weekly report: crypto outlook in india seemingly positive']"
+422,21-05-2021 17:00:00,1621616400.0,37252.01,0,1621616400,3,"['#analysis #bitcoin holo (hot) could spike 70% if this happens: top analyst', '#surveysandreports #bitcoin report: bitcoin to bounce back from black wednesday crash', '#markets #india weekly report: crypto outlook in india seemingly positive']"
+423,22-05-2021 17:00:00,1621702800.0,37449.73,1,1621702800,0,[]
+424,23-05-2021 17:00:00,1621789200.0,34655.25,0,1621789200,0,[]
+425,24-05-2021 17:00:00,1621875600.0,38796.29,1,1621875600,3,"['#policyandregulation #bitcoin china to intensify crackdown on crypto mining operations', '#surveysandreports #bitcoin goldman sachs reconsiders cryptocurrencies as an asset class', '#markets #bitcoin defi tokens plunge amid another crypto crash on sunday']"
+426,25-05-2021 17:00:00,1621962000.0,38324.72,0,1621962000,3,"['markets polygon polygon matic price sees 100 bounce  where to buy polygon', '#markets #binance shiba inu price on recovery path with 24% bounce: where can you buy shib?', '#opinion #bitcoin lawrence summers: cryptocurrencies are here to stay']"
+427,26-05-2021 17:00:00,1622048400.0,39241.91,1,1622048400,2,"['#business #bitcoin macro hive now accepts bitcoin and ethereum for payments', 'technology bitcoin blockchain could be a threat to fidelity investments']"
+428,27-05-2021 17:00:00,1622134800.0,38529.98,0,1622134800,3,"['#markets #broker could ethereum outpace bitcoin this bull cycle? where to buy ethereum', 'markets etoro amc entertainment up 20 amid meme stocks craze  where to buy amc', 'markets dogecoin dogecoin price slips 45  how to buy dogecoin']"
+429,27-05-2021 17:00:00,1622134800.0,38529.98,0,1622134800,3,"['#markets #broker could ethereum outpace bitcoin this bull cycle? where to buy ethereum', 'markets etoro amc entertainment up 20 amid meme stocks craze  where to buy amc', 'markets dogecoin dogecoin price slips 45  how to buy dogecoin']"
+430,28-05-2021 17:00:00,1622221200.0,35663.49,0,1622221200,3,"['markets broker no worries with hakunamatata  where to buy hakunamatata', '#markets #bitcoin monthly report: china ramps up efforts to curb crypto mining', 'markets broker emax outpaces eth  where to buy ethereummax']"
+431,29-05-2021 17:00:00,1622307600.0,34605.15,0,1622307600,0,[]
+432,30-05-2021 17:00:00,1622394000.0,35641.27,1,1622394000,0,[]
+433,30-05-2021 17:00:00,1622394000.0,35641.27,1,1622394000,0,[]
+434,31-05-2021 17:00:00,1622480400.0,37253.81,1,1622480400,1,['markets broker ripple soars on news it will go public  where to buy ripple xrp']
+435,31-05-2021 17:00:00,1622480400.0,37253.81,1,1622480400,1,['markets broker ripple soars on news it will go public  where to buy ripple xrp']
+436,01-06-2021 17:00:00,1622566800.0,36693.09,0,1622566800,4,"['markets etoro nike inc nke share price outlook  where to buy nke', 'markets broker where to buy pokeball poke  a potential rival to compound', '#markets #bitcoin best cryptocurrencies to buy in june 2021', 'markets etoro ethereum price looks positive with 8 weekly gains  where to buy eth']"
+437,02-06-2021 17:00:00,1622653200.0,37568.68,1,1622653200,3,"['markets doge dogecoin price spikes after coinbase announcement  where to buy doge', '#uncategorized what is happycoin (happy): recommended platforms for buying happy', 'markets broker the coin that saves lives on the way to the moon  where to buy life token']"
+438,03-06-2021 17:00:00,1622739600.0,39246.79,1,1622739600,2,"['markets dogecoin shiba inu up 14 as price picks momentum again  where and how to buy shib', 'markets broker ftm spikes 800 after airdrop  where to buy fitmin finance']"
+439,04-06-2021 17:00:00,1622826000.0,36829.0,0,1622826000,1,['markets broker ada surges as cardano rivals ethereum  where to buy cardano']
+440,05-06-2021 17:00:00,1622912400.0,35513.2,0,1622912400,0,[]
+441,06-06-2021 17:00:00,1622998800.0,35796.31,1,1622998800,0,[]
+442,07-06-2021 17:00:00,1623085200.0,33552.79,0,1623085200,6,"['markets etoro mofi finance centralised defi  where to buy', '#markets #elonmusk saylormoon (smoon) a coin based on a tweet? where to buy saylormoon', '#business #bitcoin cryptocurrencies gaining interest among millennials in australia', 'markets etoro finnexus cross chain defi project  where to buy finnexus coin', '#technology #square square to build new bitcoin hardware wallet: ceo jack dorsey', '#business #bitcoin ruffer realised a 1_1b profit from bitcoin investment']"
+443,08-06-2021 17:00:00,1623171600.0,33380.81,0,1623171600,7,"['#crime #bitcoin us recovers 2_3m bitcoin ransom paid to hackers', '#policyandregulation #bitcoin global banking regulator weighs crypto capital rules', '#business #bitcoin blockstream, square to establish a solar bitcoin mining project', 'markets bitcoin bitcoin ranges between 30k and 40k  where to buy bitcoin', 'technology theta network has had an impressive run over the last two weeks  where can you buy it', 'markets football stars fts price explodes by 5400  where to buy', '#technology #bitcoin renewable bitcoin mining firm backed by global influencers']"
+444,09-06-2021 17:00:00,1623258000.0,37388.05,1,1623258000,5,"['#policyandregulation #bitcoin el salvador becomes first country to approve bitcoin as legal tender', 'markets gifto gto price rises by 37  where to buy gifto', 'markets adult content nft marketplace  where to buy xxxnifty nsfw', '#markets bitcoin diamond (bcd) jumps 57% in 24 hours: where to buy', '#policyandregulation #bitcoin senior sec commissioner warns against strict crypto rules']"
+445,10-06-2021 17:00:00,1623344400.0,36675.72,0,1623344400,9,"['#analysis #bitcoin bitcoin price prediction for june 2021', '#analysis #bitcoincash bitcoin cash price prediction for june 2021', '#policyandregulation #bitcoin elizabeth warren lambasts cryptocurrencies in senate hearing', '#markets #bitcoin bitcoin price returns to 36k: where can you buy bitcoin?', '#markets #bitcoin chainalysis reports us investors raked in over 4bn from bitcoin', '#markets streamr (data) sees boost of 140% in just seven days', '#markets where to buy hodl coin today after the cryptocurrency surges', '#crime #bitcoin china cracks down on crypto-related money laundering', 'policyandregulation bitcoin el salvador to offer 100 clean geothermalpowered energy for btc mining']"
+446,11-06-2021 17:00:00,1623430800.0,37331.98,1,1623430800,7,"['#markets #bitcoin weekly report: el-salvador adopts bitcoin as legal tender', 'markets gitcoin price has risen by 28  where can you buy', '#markets tornado cash: the ethereum scrambler? where to buy', 'policyandregulation bitcoin chinas bitcoin crackdown widens as authorities shut down mining activities', 'technology bitcoin riot blockchains bitcoin production up 220 from last year', 'markets amp amp sees gains of 21 in 24 hours  where can you buy it', '#policyandregulation #bitcoin elon musk not featured in the bitcoin mining council']"
+447,12-06-2021 17:00:00,1623517200.0,35546.11,0,1623517200,0,[]
+448,13-06-2021 17:00:00,1623603600.0,39020.57,1,1623603600,0,[]
+449,14-06-2021 17:00:00,1623690000.0,40516.29,1,1623690000,6,"['markets connecting blockchains  where to buy overline emblem emb', '#markets #bitcoin tesla to accept bitcoin on condition green energy is used', 'markets feg token  meme token that will feed every gorilla where to buy', '#markets #bitcoin bitcoin jumps 12% to eye 40k on positive tesla and taproot news', '#policyandregulation #bitcoin tanzanian president tells central bank to prepare for crypto', 'markets theta fuel tfuel adds fuel to its fire with price hike  where to buy']"
+450,15-06-2021 17:00:00,1623776400.0,40144.04,0,1623776400,7,"['#markets #ethereum where to buy ethereum before the eip1559 upgrade rolls out', '#featured #bitcoin the elon musk bitcoin saga continues: btc rallies 10%', 'policyandregulation bitcoin sec delays review of kryptoins bitcoin etf application', '#opinion #bitcoin celsius chief sees bitcoin touching 160k by the end of year', 'markets polkadot price rallies 14  where can you buy', '#business #bitcoin microstrategy to sell 1b worth of company stock to buy bitcoin', 'markets why has safemoon rallied 23  where to buy safemoon']"
+451,16-06-2021 17:00:00,1623862800.0,38349.01,0,1623862800,8,"['markets cbdao bree price jumps an enormous 480  where can you buy it', '#markets #dogecoin the best places to buy doget coin: doge token surges in value', '#markets #bitcoin study shows institutions are still bullish on bitcoin', '#policyandregulation #bitcoin indonesian central bank bans use of crypto for payments', '#markets #coinbase keep coin is on the up: here is where to buy the cryptocurrency', 'markets binancecoin bnb dips 4  is now a good time to buy binance coin', '#markets #coinbase where to buy sanshu inu coin after it surges in value', '#markets #bitcoin el salvador explorings possibility of paying workers in bitcoin']"
+452,16-06-2021 17:00:00,1623862800.0,38349.01,0,1623862800,8,"['markets cbdao bree price jumps an enormous 480  where can you buy it', '#markets #dogecoin the best places to buy doget coin: doge token surges in value', '#markets #bitcoin study shows institutions are still bullish on bitcoin', '#policyandregulation #bitcoin indonesian central bank bans use of crypto for payments', '#markets #coinbase keep coin is on the up: here is where to buy the cryptocurrency', 'markets binancecoin bnb dips 4  is now a good time to buy binance coin', '#markets #coinbase where to buy sanshu inu coin after it surges in value', '#markets #bitcoin el salvador explorings possibility of paying workers in bitcoin']"
+453,17-06-2021 17:00:00,1623949200.0,38092.97,0,1623949200,4,"['markets ripple price sees decline of 43 in 30 days  time to buy', 'technology bitcoin world bank says no to el salvadors request on bitcoin implementation', 'markets etoro bidcommerce price enjoys 50 boost  where might price go next', '#business #bitcoin republican house campaign committee to accept crypto donations']"
+454,18-06-2021 17:00:00,1624035600.0,35819.84,0,1624035600,6,"['opinion bitcoin bitcoins inadequacies are a boost for other crypto alternatives', 'markets etoro where to buy fnk  users can earn up to 15 apy', '#markets #etoro is now the right time to buy safe energy crypto?', '#markets #bitcoin tesla hints at bitcoin support u-turn as tanzania contemplates crypto adoption', 'markets etoro theta sees boost of 76  where to buy theta', '#business #bitcoin kraken could go public in 12 to 18 months, according to ceo']"
+455,19-06-2021 17:00:00,1624122000.0,35483.72,0,1624122000,0,[]
+456,20-06-2021 17:00:00,1624208400.0,35600.16,1,1624208400,0,[]
+457,21-06-2021 17:00:00,1624294800.0,31608.93,0,1624294800,5,"['#policyandregulation #bitcoin russian oligarch encourages russia to emulate el salvador', 'markets where to buy galaxium token  volume spike pushes up price by 362', 'markets sun token launches hard forked token  where to buy', 'markets one token sees dip following last weeks launch  where to buy', 'markets bitcoin chinas crackdown reduces btc hashrate  where to buy bitcoin btc']"
+458,21-06-2021 17:00:00,1624294800.0,31608.93,0,1624294800,5,"['#policyandregulation #bitcoin russian oligarch encourages russia to emulate el salvador', 'markets where to buy galaxium token  volume spike pushes up price by 362', 'markets sun token launches hard forked token  where to buy', 'markets one token sees dip following last weeks launch  where to buy', 'markets bitcoin chinas crackdown reduces btc hashrate  where to buy bitcoin btc']"
+459,22-06-2021 17:00:00,1624381200.0,32509.56,1,1624381200,5,"['#markets where to buy cryptocurrency 2local after 283% price rise', 'markets bitcoin cnbcs cramer confirms he dumped almost all of his bitcoins', 'markets where to buy cryptocurrency shiba inu  time to buy the dip', 'markets bitcoin where to buy cryptocurrency  where do i start what exchange do i use', '#markets where to buy cryptocurrency bridge oracle: 124% boost in 24 hours']"
+460,22-06-2021 17:00:00,1624381200.0,32509.56,1,1624381200,5,"['#markets where to buy cryptocurrency 2local after 283% price rise', 'markets bitcoin cnbcs cramer confirms he dumped almost all of his bitcoins', 'markets where to buy cryptocurrency shiba inu  time to buy the dip', 'markets bitcoin where to buy cryptocurrency  where do i start what exchange do i use', '#markets where to buy cryptocurrency bridge oracle: 124% boost in 24 hours']"
+461,23-06-2021 17:00:00,1624467600.0,33678.07,1,1624467600,5,"['markets restore rest sees price rally by 290  where to buy', '#policyandregulation #bitcoin south korea seizes over 47m in crypto from wealthy tax evaders', 'markets ethereum ethereum returns to above 2000 in rebound  where to buy', 'markets dogecoin cofounder buys dogecoin for first time in 8 years  where to buy', 'markets ethereum polygon matic price rallies 11 up to 119  where to buy']"
+462,24-06-2021 17:00:00,1624554000.0,34663.09,1,1624554000,6,"['#markets where to buy cryptocurrency klaytn after 32% price rise', 'markets bitcoin bitmain halts sales of bitcoin mining rigs amid chinas crackdown', 'markets tron tron leaps 1650 up to 0064920  where to buy tron', 'markets cardano cardano sees 64 bump up in price  where to buy ada', 'markets ally has price boost of 48  where to buy ally', '#markets #bitcoin microstrategy now holds over 100,000 bitcoins']"
+463,25-06-2021 17:00:00,1624640400.0,31584.45,0,1624640400,8,"['business bitcoin geminis climate initiative to help decarbonise bitcoin', 'markets where to buy spice  the cryptocurrency that leapt 239', '#markets #bitcoin monthly report: microstrategy buys dip as china cracks down on mining', 'markets mozart finance melody has price spike of 63  where to buy', '#markets where to buy zabaku inu: the next shiba inu?', '#markets #bitcoin bitcoin could dump to 23k in medium term, jpmorgan analysts say', '#business #bitcoin athena bitcoin plans to install 1,500 crypto atms in el salvador', '#markets #etoro the best place to buy binance coin: bnb set for a post-dip comeback']"
+464,26-06-2021 17:00:00,1624726800.0,32283.65,1,1624726800,0,[]
+465,27-06-2021 17:00:00,1624813200.0,34700.34,1,1624813200,0,[]
+466,27-06-2021 17:00:00,1624813200.0,34700.34,1,1624813200,0,[]
+467,28-06-2021 17:00:00,1624899600.0,34494.89,0,1624899600,5,"['#markets #etoro the best place to buy hoppy online: hop rallies 5x', '#technology #bitcoin virgin galactic is now licensed to take bitcoiners to space', '#markets #etoro where to buy dkargo: dka picks up momentum with 50% surge', 'markets etoro karencoin surges 17 heres where to buy it', '#markets #etoro where to buy gitcoin: gtc touches 8_50 in 40% rally']"
+468,28-06-2021 17:00:00,1624899600.0,34494.89,0,1624899600,5,"['#markets #etoro the best place to buy hoppy online: hop rallies 5x', '#technology #bitcoin virgin galactic is now licensed to take bitcoiners to space', '#markets #etoro where to buy dkargo: dka picks up momentum with 50% surge', 'markets etoro karencoin surges 17 heres where to buy it', '#markets #etoro where to buy gitcoin: gtc touches 8_50 in 40% rally']"
+469,29-06-2021 17:00:00,1624986000.0,35911.73,1,1624986000,6,"['business bitcoin banco aztecas plans to explore bitcoin hit a snag', '#markets #etoro ready for launch: where to buy safemoon today', '#markets #etoro where to buy everrise: will rise rise forever?', '#markets #bitcoin ark invest and 21shares collaborate to market new etf', '#markets #etoro shiba inu up by 45% this week: where to buy shib', '#markets #etoro where to buy bitcoin sv: bsv up by 27%']"
+470,30-06-2021 17:00:00,1625072400.0,35045.0,0,1625072400,5,"['#markets #etoro ethereum classic is gaining fast: find out where to buy etc', '#markets #etoro where to buy dad chain: 116% weekly gains for decentralised advertising protocol', '#markets #bitcoin us senator says bitcoin is ideal for retirement savings', '#markets #etoro where to buy ringx as it doubles in 24 hours', '#markets #etoro lpool records 50% daily gains: the best place to buy launchpool']"
+471,01-07-2021 17:00:00,1625158800.0,33504.69,0,1625158800,5,"['#markets #etoro where to buy rari: nft platform rarible rallies by 40%', '#markets #etoro the best place to buy aelf: elf accelerates its bullish reversal', '#markets #etoro where to buy aergo as price goes vertical', '#markets #etoro where to buy linkeye: let enters top 10 best performing cryptos', '#business #bitcoin 650 us banks allow millions of clients to buy bitcoin with their bank accounts']"
+472,01-07-2021 17:00:00,1625158800.0,33504.69,0,1625158800,5,"['#markets #etoro where to buy rari: nft platform rarible rallies by 40%', '#markets #etoro the best place to buy aelf: elf accelerates its bullish reversal', '#markets #etoro where to buy aergo as price goes vertical', '#markets #etoro where to buy linkeye: let enters top 10 best performing cryptos', '#business #bitcoin 650 us banks allow millions of clients to buy bitcoin with their bank accounts']"
+473,02-07-2021 17:00:00,1625245200.0,33786.55,1,1625245200,5,"['#markets #etoro where to buy babybnb as it hits new all-time high', '#markets #etoro where to buy xenon pay ii: bsc token enjoys 120% rally this week', 'markets etoro where to buy baby doge coin is babydoge elon musks new favourite crypto', '#markets #etoro where to buy bytecoin (bcn): time the market to capture 90% price spikes', 'business bitcoin strike announces no fee bitcoin buying feature aims salvo at coinbase']"
+474,02-07-2021 17:00:00,1625245200.0,33786.55,1,1625245200,5,"['#markets #etoro where to buy babybnb as it hits new all-time high', '#markets #etoro where to buy xenon pay ii: bsc token enjoys 120% rally this week', 'markets etoro where to buy baby doge coin is babydoge elon musks new favourite crypto', '#markets #etoro where to buy bytecoin (bcn): time the market to capture 90% price spikes', 'business bitcoin strike announces no fee bitcoin buying feature aims salvo at coinbase']"
+475,04-07-2021 17:00:00,1625418000.0,35286.51,1,1625418000,0,[]
+476,05-07-2021 17:00:00,1625504400.0,33690.14,0,1625504400,4,"['#policyandregulation #bitcoin kazakhstan to tax bitcoin miners as new law comes into effect', '#markets #etoro where to buy enzyme: mln enjoying bullish resurgence', '#markets #etoro where to buy solarwind token: huge gains for slw', '#markets #etoro where to buy yearn finance passive income: yfpi sees 93% increase today']"
+477,06-07-2021 17:00:00,1625590800.0,34220.01,1,1625590800,5,"['#markets #etoro where to buy uniswap: uni swaps bear market for 26% weekly gains', 'crime bitcoin brazil detains bitcoin king as police probe 300m btc scam', '#markets #etoro where to buy xrune: thorstarter hammers out 50% rally in first week', '#markets #etoro where to buy alpha: alpha finance leads the defi charge with 89% 2-week rally', '#business monobank looking to offer bitcoin trading desk via debit card']"
+478,07-07-2021 17:00:00,1625677200.0,33862.12,0,1625677200,5,"['#markets #etoro where to buy small love potion tokens: slp coin surges 40%', '#markets #etoro where to buy singularitydao crypto: sdao coin rises 40% in a day', '#markets where to buy axie infinity as the nft token exploded by more than 400% and continues to rise', '#markets #etoro where to buy kucoin: kcs doubles in value in the space of a week', '#opinion #bitcoin ether can transcend bitcoin as a better store of value: goldman sachs']"
+479,08-07-2021 17:00:00,1625763600.0,32875.71,0,1625763600,6,"['#markets #etoro where to buy sand: there is 46% more cash in the sandbox since last week', '#markets the best places to buy tiger king coin: tking crypto up 150%', '#markets #bitcoin bitcoin dumps 2k as a fresh bloodbath sweeps the crypto market', '#crime #bitcoin israeli government orders seizure of hamas-linked crypto wallets', '#markets where to buy baby moon wolf tokens: babywolf coin surges 350%', '#markets #etoro symbol skyrockets 72% within an hour: discover where to buy xym today']"
+480,09-07-2021 17:00:00,1625850000.0,33815.81,1,1625850000,5,"['#markets #etoro blockmason link is up 100% today: here is where to buy blink coin', 'markets etoro where to buy haven protocol 3x this week for cryptos offshore bank', '#markets #bitcoin weekly report: monobank plans crypto entry as kazakhstan enacts crypto tax rule', 'business bitcoin uks ad regulator to crack down on misleading crypto ads', '#markets #etoro where to buy botxcoin: 590% gains this week for botx']"
+481,10-07-2021 17:00:00,1625936400.0,33502.87,0,1625936400,0,[]
+482,11-07-2021 17:00:00,1626022800.0,34258.99,1,1626022800,0,[]
+483,12-07-2021 17:00:00,1626109200.0,33086.63,0,1626109200,1,['opinion bitcoin jp morgan finds fault with el salvadors btc adoption decision']
+484,13-07-2021 17:00:00,1626195600.0,32729.77,0,1626195600,4,"['markets etoro where to buy dprating big week for moodys of crypto', '#markets #etoro where to buy ktn: 500+% gains prove everyone loves kittens', '#markets #etoro the best places to buy jasmy coin: jasmy crypto is up 130% today', '#markets #etoro no dogs allowed: where to buy nodoge as it surges 2x']"
+485,14-07-2021 17:00:00,1626282000.0,32820.02,1,1626282000,6,"['#business #bitcoin bit mining raises 50 million for expansion plans', '#markets #etoro where to buy harvest finance: farm up by 88% this week', '#markets #etoro where to buy binamon coin online: best bmon trading platforms', 'markets etoro where to buy mydefipet is dpet the next pokmon', 'markets etoro millions price doubles in 24 hours where to buy techleads mm', 'markets bitcoin bitcoin price falls below 32k as pullback continues whats next for btc']"
+486,15-07-2021 17:00:00,1626368400.0,31880.0,0,1626368400,4,"['#markets #etoro where to buy alien worlds crypto: tlm coin skyrockets 50%', '#markets #etoro where to buy fear: nft game sees 429% weekly rally ahead of rollout', '#markets #etoro where to buy faraland: 190% overnight gains for nft game', 'markets etoro where to buy fox token shapeshifts loyalty token is up 178']"
+487,16-07-2021 17:00:00,1626454800.0,31383.87,0,1626454800,6,"['#markets where to buy streamr crypto online: data coin on the rise again', '#business #bitcoin jack dorsey unveils plans for a bitcoin developer platform', '#markets where to buy cryptex finance coin online: best ctx trading platforms', '#markets #bitcoin weekly report: federal reserve working on digital assets report that will be released in september', '#markets the best places to buy metahero after hero coin surges in value', '#markets the best places to buy hex coin online and our hex price prediction']"
+488,17-07-2021 17:00:00,1626541200.0,31520.07,1,1626541200,0,[]
+489,18-07-2021 17:00:00,1626627600.0,31778.56,1,1626627600,0,[]
+490,18-07-2021 17:00:00,1626627600.0,31778.56,1,1626627600,0,[]
+491,19-07-2021 17:00:00,1626714000.0,30839.65,0,1626714000,8,"['#policyandregulation #bitcoin malaysian police destroy crypto mining equipment', '#markets #bitcoin iota price analysis: miota/usd shows weakness near crucial resistance line', '#opinion #bitcoin mike tyson teases crypto community on twitter', '#markets #etoro moon nation game skyrockets 300%: here are the best places to buy mng coin', 'markets etoro omni  people driven is one of todays hottest cryptos here is where to buy it', '#markets #bitcoin btc price outlook: btc/usd below 32k as weekly close hits ytd low', '#markets #etoro where to buy bondly coin after the cryptocurrency surges 100%', '#markets #etoro faraland crypto just keeps rising: here is where to buy fara coin']"
+492,19-07-2021 17:00:00,1626714000.0,30839.65,0,1626714000,8,"['#policyandregulation #bitcoin malaysian police destroy crypto mining equipment', '#markets #bitcoin iota price analysis: miota/usd shows weakness near crucial resistance line', '#opinion #bitcoin mike tyson teases crypto community on twitter', '#markets #etoro moon nation game skyrockets 300%: here are the best places to buy mng coin', 'markets etoro omni  people driven is one of todays hottest cryptos here is where to buy it', '#markets #bitcoin btc price outlook: btc/usd below 32k as weekly close hits ytd low', '#markets #etoro where to buy bondly coin after the cryptocurrency surges 100%', '#markets #etoro faraland crypto just keeps rising: here is where to buy fara coin']"
+493,20-07-2021 17:00:00,1626800400.0,29790.35,0,1626800400,7,"['#surveysandreports survey: 70% of institutional investors ready to buy crypto', '#markets #etoro where to buy moon nation game: all-time high and 1,000% weekly gains for mng', '#markets #etoro where to buy prcy coin: prcy bounces 2x from weekly low', '#markets #etoro where to buy babydogeinu: 49% rally for hybrid meme coin', '#markets #dogecoin dogecoin price analysis: doge dips 8% as btc struggles amid fresh losses', 'markets etoro this cryptocurrency is up 50000000 today heres where to buy wspp coin', '#markets #bitcoin ethereum price slips 7%,could test 1,500 ahead of london upgrade']"
+494,20-07-2021 17:00:00,1626800400.0,29790.35,0,1626800400,7,"['#surveysandreports survey: 70% of institutional investors ready to buy crypto', '#markets #etoro where to buy moon nation game: all-time high and 1,000% weekly gains for mng', '#markets #etoro where to buy prcy coin: prcy bounces 2x from weekly low', '#markets #etoro where to buy babydogeinu: 49% rally for hybrid meme coin', '#markets #dogecoin dogecoin price analysis: doge dips 8% as btc struggles amid fresh losses', 'markets etoro this cryptocurrency is up 50000000 today heres where to buy wspp coin', '#markets #bitcoin ethereum price slips 7%,could test 1,500 ahead of london upgrade']"
+495,21-07-2021 17:00:00,1626886800.0,32144.51,1,1626886800,5,"['markets etoro 79 bounce lets babydoge out of the doghouse heres where to buy baby doge coin', '#markets #polygon polygon (matic) price sees 33% bounce as bulls tag 0_84', '#markets #etoro where to buy floki inu coin after it surges 90%', '#markets #etoro where to buy grimex as it rallies 227%: is spacegrime headed to the moon?', '#markets #etoro nft starter rallies 251%, sets new ath: where to buy nst']"
+496,21-07-2021 17:00:00,1626886800.0,32144.51,1,1626886800,5,"['markets etoro 79 bounce lets babydoge out of the doghouse heres where to buy baby doge coin', '#markets #polygon polygon (matic) price sees 33% bounce as bulls tag 0_84', '#markets #etoro where to buy floki inu coin after it surges 90%', '#markets #etoro where to buy grimex as it rallies 227%: is spacegrime headed to the moon?', '#markets #etoro nft starter rallies 251%, sets new ath: where to buy nst']"
+497,22-07-2021 17:00:00,1626973200.0,32287.83,1,1626973200,6,"['#markets baby cake coin is the latest crypto to surge in price: here is where to buy it', '#markets where to buy cryptoblades coin: skill tokens up 50%', 'opinion bitcoin elon musk discusses crypto and teslas take on btc payments', '#markets #etoro where to buy matic: polygon records 10% bounce, leads mid-cap recovery', '#markets eifi finance coin rises a further 120%: here are the best places to buy it', '#markets #cardano ada price analysis: cardano tags 1_22 amid potential bullish flip']"
+498,23-07-2021 17:00:00,1627059600.0,33634.09,1,1627059600,6,"['#markets #bitcoin price analysis: bitcoin (btc), ethereum (eth), tezos (xtz)', '#opinion #bitcoin thomas peterffy reveals he has personally invested in crypto', '#markets here is where to buy boson protocol coin after its 70% price surge', '#markets where to buy bsc station coin: bscs tokens surge 200% in price', '#surveysandreports #bitcoin number of bitcoin investors under 50 quadrupled since 2018', '#markets where to buy']"
+499,24-07-2021 17:00:00,1627146000.0,34258.14,1,1627146000,0,[]
+500,25-07-2021 17:00:00,1627232400.0,35381.02,1,1627232400,0,[]
+501,26-07-2021 17:00:00,1627318800.0,37237.6,1,1627318800,3,"['#markets #etoro where to buy ethereum: eth leads market recovery with 25% weekly gains', '#markets #chainlink link price analysis: chainlink jumps 17% as sell pressure wanes', '#markets #bitcoin bitcoin price eyes 40k, above 50 dma for first time since may']"
+502,27-07-2021 17:00:00,1627405200.0,39457.87,1,1627405200,10,"['#markets #etoro old doge, new tricks: where to buy dogecoin as it bounces 12%', '#markets #bitcoin bitcoin price seeks swift bounce after sell-off from 40_5k', '#markets #etoro where to buy co2: join the collective for 130% gains', '#markets #etoro where to buy wall street games: wsg charts 235% rally', '#markets where to buy okexchain coin: okt surges 50%', 'markets etoro where to buy ethereum eth leads market recovery  with 25 weekly gains', '#markets #etoro where to buy vechain: vet explodes, rallies 30% this week', '#markets #etoro enter the multiverse: where to buy ai as it surges 40%', 'markets etoro where to buy matic 40 weekly gain for polygon turns heads', '#surveysandreports #bitcoin young singaporeans are keen on crypto adoption: survey']"
+503,28-07-2021 17:00:00,1627491600.0,40019.56,1,1627491600,5,"['markets etoro where to buy xrp good news for ripple leads to 17 daily climb', '#markets #litecoin litecoin price analysis: uptrend has bulls trying to break 140', '#markets #etoro where to buy huobi token: ht rallies 15% despite china crackdown', 'markets find out where to buy todays hottest crypto starlink coin', '#markets #etoro where to buy splinterlands: sps up over 100% after private token sale']"
+504,29-07-2021 17:00:00,1627578000.0,40016.48,0,1627578000,8,"['#markets #etoro where to buy shiba inu: dogecoin killer shib lists on etoro', '#markets #market where to buy playdapp crypto: pla coin price up 150%', '#business #bitcoin bitcoin firms lolli and genesis digital assets see more funding', '#markets #etoro where to buy robinhood: hood to list on etoro after ipo', '#markets #etoro where to buy quant: qnt hits new all-time high after 56% rally', '#markets #etoro where to buy thorchain: rune surges 33% despite tough week', '#markets #etoro where to buy alchemy pay: ach climbs 163% as crypto payments demand surges', '#markets #tron tron price analysis: trx bulls showing uncertainty around 0_060']"
+505,29-07-2021 17:00:00,1627578000.0,40016.48,0,1627578000,8,"['#markets #etoro where to buy shiba inu: dogecoin killer shib lists on etoro', '#markets #market where to buy playdapp crypto: pla coin price up 150%', '#business #bitcoin bitcoin firms lolli and genesis digital assets see more funding', '#markets #etoro where to buy robinhood: hood to list on etoro after ipo', '#markets #etoro where to buy quant: qnt hits new all-time high after 56% rally', '#markets #etoro where to buy thorchain: rune surges 33% despite tough week', '#markets #etoro where to buy alchemy pay: ach climbs 163% as crypto payments demand surges', '#markets #tron tron price analysis: trx bulls showing uncertainty around 0_060']"
+506,30-07-2021 17:00:00,1627664400.0,42206.37,1,1627664400,6,"['#markets #bitcoin imf sees great potential in digital money if risks are managed', '#markets #etoro where to buy yield guild games: ygg sets all-time high on day three', '#markets #etoro where to buy solana: sol shines with 10% climb', '#markets #etoro go with the flow: where to buy flow as it surges 15%', '#markets #bitcoin german institutional funds to invest up to 20% in crypto', '#markets the best places to buy bitcoin gold after it surges in value']"
+507,31-07-2021 17:00:00,1627750800.0,41461.83,0,1627750800,0,[]
+508,01-08-2021 17:00:00,1627837200.0,39845.44,0,1627837200,0,[]
+509,01-08-2021 17:00:00,1627837200.0,39845.44,0,1627837200,0,[]
+510,02-08-2021 17:00:00,1627923600.0,39147.82,0,1627923600,5,"['#markets where to buy lion token: lion crypto surges in price', '#markets #etoro return of the space cow boy: where to buy scb as it surges 170%', 'technology bitcoin bofa outlines potential benefits of el salvadors bitcoin adoption', '#markets #etoro terra climbs to 40% weekly gains: where to buy luna', '#markets #bitcoin bitcoin closes strongest weekly candle since april']"
+511,03-08-2021 17:00:00,1628010000.0,38207.05,0,1628010000,8,"['#markets #etoro where to buy robinhood stock as hood shoots up 16%', '#analysis #bitcoin ethereum price analysis: eth risks more dips ahead of eip 1559', '#markets #etoro corgidoge explodes with 42,000% daily gains: where to buy corgi', '#business #bitcoin skybridge capital buys carbon offsets for its bitcoin holdings', '#markets #etoro where to buy voyager token: vgx climbs 32% after coinify acquisition', '#markets #etoro this crypto is up 747% over the last year: where to buy stx', '#business #bitcoin ncr corporation set to acquire bitcoin atm operator libertyx', '#markets project with crypto could be one to watch today: here is where to buy it']"
+512,04-08-2021 17:00:00,1628096400.0,39723.18,1,1628096400,5,"['#business #bitcoin luxury chopper maker accepts bitcoin payments with coincorner', '#markets #etoro where to buy cashcow finance: ccf clocks 150% daily gains', 'markets the best places to buy alchemy pay tokens todays hottest cryptocurrency', '#markets #etoro where to buy baby shark as it bounces 128% from monday low', '#markets #etoro where to buy origo: ogo leads market with 333% surge']"
+513,05-08-2021 17:00:00,1628182800.0,40862.46,1,1628182800,7,"['#markets #etoro where to buy aave: aave rallies 16%, breaks monthly high', '#markets #etoro the best places to buy exp world holdings stock after it surges 30%', '#markets #etoro where to buy metamoon: metamoon has done 2x today', '#markets #bitcoin bitcoin price analysis: btc sees fresh dips below 39k', '#crime #bitcoin russian federal agency working on a bitcoin tracking tool', '#markets #etoro truefi spikes 435% after raising 12_5 million: where to buy tru', '#business #bitcoin grayscale hires former alerian ceo to strengthen etf team']"
+514,06-08-2021 17:00:00,1628269200.0,42836.87,1,1628269200,7,"['#markets alchemy pay tokens up 2,300% in a week: here is where to buy them', '#markets #etoro theta price rises 18% on metamask news: where to buy theta', '#markets #etoro swapcoinz rallies 6,600% on the day: where to buy spaz', '#policyandregulation #bitcoin shock as biden sides with tax plan that favours pow over pos', '#markets #etoro zeon network is up by over 1,000% today: where to buy zeon', 'markets bitcoin bofa views el salvadors btc adoption from a positive perspective', '#markets where to buy stafi tokens: fis coin price surges 130%']"
+515,07-08-2021 17:00:00,1628355600.0,44572.54,1,1628355600,0,[]
+516,08-08-2021 17:00:00,1628442000.0,43794.37,0,1628442000,0,[]
+517,09-08-2021 17:00:00,1628528400.0,46253.4,1,1628528400,7,"['#markets #etoro baby doge billionaire just keeps rising: 222% rally for babydb', '#markets #bitcoin bitcoin shakes off negative us crypto tax news, price hits 45,000', '#markets #bitcoin litecoin price analysis: ltc poised for a 26% upside towards 200', '#markets #etoro mozik sings with a triple-digit swing: where to buy moz', '#technology #bitcoin alchemy pay to launch virtual cards to enable easy crypto payments', '#markets #etoro where to buy psg: fan token surges 50% on messi rumours', '#markets #etoro where to buy binamars: new all-time high for bmars after 92% rally']"
+518,10-08-2021 17:00:00,1628614800.0,45584.99,0,1628614800,7,"['#business #usa circle plans to become a federally-chartered commercial bank', '#markets #bitcoin bitcoin records outflows for 5th consecutive week despite price surge', '#markets #etoro next-gen coin cartesi is up 94% this week: where to buy ctsi', '#markets #etoro where to buy internet computer? icp rises slowly but steadily with 12% gains in 24 hours', '#markets #etoro viral meme coin shoots up 24,000%: where to buy floki inu', '#markets #etoro where to buy triumphx: trix rallies 708%, breaks resistance', '#markets safemoon price analysis: bearish outlook amid low trading volume']"
+519,10-08-2021 17:00:00,1628614800.0,45584.99,0,1628614800,7,"['#business #usa circle plans to become a federally-chartered commercial bank', '#markets #bitcoin bitcoin records outflows for 5th consecutive week despite price surge', '#markets #etoro next-gen coin cartesi is up 94% this week: where to buy ctsi', '#markets #etoro where to buy internet computer? icp rises slowly but steadily with 12% gains in 24 hours', '#markets #etoro viral meme coin shoots up 24,000%: where to buy floki inu', '#markets #etoro where to buy triumphx: trix rallies 708%, breaks resistance', '#markets safemoon price analysis: bearish outlook amid low trading volume']"
+520,11-08-2021 17:00:00,1628701200.0,45511.0,0,1628701200,6,"['#business #bitcoin venmo customers to be able to buy crypto with their cash back', '#markets #etoro iotex surges 289% to new all-time high: where to buy iotx', '#markets #etoro axie infinity soars by 55%: where to buy axs?', 'markets bitcoin coinbase trading volume hits 462bn says 21q2 shareholder letter', '#markets #etoro where to buy ada? cardano rises 12% in 24 hours', '#markets #etoro where to buy bitrise: big boom for brise as it shoots up 482%']"
+521,11-08-2021 17:00:00,1628701200.0,45511.0,0,1628701200,6,"['#business #bitcoin venmo customers to be able to buy crypto with their cash back', '#markets #etoro iotex surges 289% to new all-time high: where to buy iotx', '#markets #etoro axie infinity soars by 55%: where to buy axs?', 'markets bitcoin coinbase trading volume hits 462bn says 21q2 shareholder letter', '#markets #etoro where to buy ada? cardano rises 12% in 24 hours', '#markets #etoro where to buy bitrise: big boom for brise as it shoots up 482%']"
+522,12-08-2021 17:00:00,1628787600.0,44399.0,0,1628787600,6,"['#markets #etoro where to buy xrp: ripple leads top 10 with 13% gain', '#markets #etoro where to buy basic: basic is on a moon run, rising by 80%', '#markets #etoro cvag does 5x in just one day: where to buy crypto village accelerator', '#markets #etoro where to buy youcash: traders flock to youc as it rallies 150% today', '#analysis #tezos tezos price analysis: xtz buy signal suggests uptrend is intact', '#markets #bitcoin valkyrie has filed a proposal for a bitcoin futures etf']"
+523,12-08-2021 17:00:00,1628787600.0,44399.0,0,1628787600,6,"['#markets #etoro where to buy xrp: ripple leads top 10 with 13% gain', '#markets #etoro where to buy basic: basic is on a moon run, rising by 80%', '#markets #etoro cvag does 5x in just one day: where to buy crypto village accelerator', '#markets #etoro where to buy youcash: traders flock to youc as it rallies 150% today', '#analysis #tezos tezos price analysis: xtz buy signal suggests uptrend is intact', '#markets #bitcoin valkyrie has filed a proposal for a bitcoin futures etf']"
+524,13-08-2021 17:00:00,1628874000.0,47800.0,1,1628874000,8,"['#markets #etoro where to buy cardano: ada surges on news of alonzo hard fork', '#markets #bitcoin the graph (grt) price spikes 17%: can bulls break above 1_00 this weekend?', '#markets #etoro the graph is ready to soar in q4: where to buy grt', 'markets bitcoin cardanos ada hits 207 ahead of a major announcement from iohks hoskinson', '#markets #bitcoin the price outlook for bitcoin, ethereum, iota', '#markets #bitcoin weekly report: crypto market cap regains 2 trillion level', '#markets #etoro where to buy super floki: sloki outpaces floki inu', 'markets etoro messi gets paid in psg  where to buy paris saintgermain fan tokens']"
+525,13-08-2021 17:00:00,1628874000.0,47800.0,1,1628874000,8,"['#markets #etoro where to buy cardano: ada surges on news of alonzo hard fork', '#markets #bitcoin the graph (grt) price spikes 17%: can bulls break above 1_00 this weekend?', '#markets #etoro the graph is ready to soar in q4: where to buy grt', 'markets bitcoin cardanos ada hits 207 ahead of a major announcement from iohks hoskinson', '#markets #bitcoin the price outlook for bitcoin, ethereum, iota', '#markets #bitcoin weekly report: crypto market cap regains 2 trillion level', '#markets #etoro where to buy super floki: sloki outpaces floki inu', 'markets etoro messi gets paid in psg  where to buy paris saintgermain fan tokens']"
+526,14-08-2021 17:00:00,1628960400.0,47068.51,0,1628960400,0,[]
+527,14-08-2021 17:00:00,1628960400.0,47068.51,0,1628960400,0,[]
+528,15-08-2021 17:00:00,1629046800.0,46973.82,0,1629046800,0,[]
+529,15-08-2021 17:00:00,1629046800.0,46973.82,0,1629046800,0,[]
+530,16-08-2021 17:00:00,1629133200.0,45901.29,0,1629133200,8,"['#surveysandreports #bitcoin report: asian countries make up top 5 by crypto ownership', '#markets solana price spikes over 36% as bulls seek a new all-time high', '#markets #etoro where to buy klay? klaytn records 8% gains and may breakout soon', '#markets #etoro the bullish rise of solana, the crypto with 40% gains_ where to buy sol?', '#markets #dogecoin dogecoin price analysis: doge bulls target 0_40 as crypto soars', '#markets #etoro where to buy terra as luna price smashes all-time high', '#markets #etoro where to buy raydium: ray shoots up 35% overnight', '#markets #etoro where to buy dent: 134% gains steal headlines for dent']"
+531,16-08-2021 17:00:00,1629133200.0,45901.29,0,1629133200,8,"['#surveysandreports #bitcoin report: asian countries make up top 5 by crypto ownership', '#markets solana price spikes over 36% as bulls seek a new all-time high', '#markets #etoro where to buy klay? klaytn records 8% gains and may breakout soon', '#markets #etoro the bullish rise of solana, the crypto with 40% gains_ where to buy sol?', '#markets #dogecoin dogecoin price analysis: doge bulls target 0_40 as crypto soars', '#markets #etoro where to buy terra as luna price smashes all-time high', '#markets #etoro where to buy raydium: ray shoots up 35% overnight', '#markets #etoro where to buy dent: 134% gains steal headlines for dent']"
+532,17-08-2021 17:00:00,1629219600.0,44695.95,0,1629219600,7,"['#markets #etoro where to buy audius: 107% rally after tiktok news', 'policyandregulation bitcoin bitcoin adoption could damage el salvadors credit rating fitch', '#markets #etoro where to buy serum as srm records 200% gains in a month', 'markets etoro where to buy ryoshi token real doge killer climbs 237', '#markets #uniswap uniswap price analysis: bulls face pressure as uni slides 4_5%', '#markets #etoro where to buy kin: crypto resurgent with 100% weekly gains', '#markets #bitcoin bitcoin miner revenue climbs 57% to return to 2020 levels']"
+533,17-08-2021 17:00:00,1629219600.0,44695.95,0,1629219600,7,"['#markets #etoro where to buy audius: 107% rally after tiktok news', 'policyandregulation bitcoin bitcoin adoption could damage el salvadors credit rating fitch', '#markets #etoro where to buy serum as srm records 200% gains in a month', 'markets etoro where to buy ryoshi token real doge killer climbs 237', '#markets #uniswap uniswap price analysis: bulls face pressure as uni slides 4_5%', '#markets #etoro where to buy kin: crypto resurgent with 100% weekly gains', '#markets #bitcoin bitcoin miner revenue climbs 57% to return to 2020 levels']"
+534,18-08-2021 17:00:00,1629306000.0,44705.29,1,1629306000,5,"['#technology #ethereum dex aggregator 1inch deploys on optimistic ethereum', '#markets #etoro where to buy catzcoin: catz purrs with 129% climb', '#markets #etoro where to buy coco swap: 87% surge takes coco to new highs', '#markets #etoro where to buy helium: bull run continues, hnt reaches ath', '#markets #etoro where to buy avalanche: avax rises by 18%']"
+535,18-08-2021 17:00:00,1629306000.0,44705.29,1,1629306000,5,"['#technology #ethereum dex aggregator 1inch deploys on optimistic ethereum', '#markets #etoro where to buy catzcoin: catz purrs with 129% climb', '#markets #etoro where to buy coco swap: 87% surge takes coco to new highs', '#markets #etoro where to buy helium: bull run continues, hnt reaches ath', '#markets #etoro where to buy avalanche: avax rises by 18%']"
+536,19-08-2021 17:00:00,1629392400.0,46760.62,1,1629392400,6,"['#markets #etoro where to buy thirm protocol: thirm climbs 167% to new high', '#markets #etoro where to buy alpaca finance: alpaca transactions skyrocket', '#markets #etoro where to buy mobox: mbox hits ath, looks set to keep rising', '#crime #bitcoin darknet btc mixer operator pleads guilty in 300m laundering scheme', '#markets #bitcoin bitcoin price holds above 44k as bulls seek fresh momentum', '#markets #etoro where to buy quant as qnt records 20% increase in a week']"
+537,20-08-2021 17:00:00,1629478800.0,49322.47,1,1629478800,5,"['markets etoro treatdao is todays top crypto the best place to buy treat after 450 surge', '#markets #etoro where to buy cryptozoo: zoo jumps 109% as nft games rise up', '#markets #ripple xrp price soars above 1_25 as buyers target new weekly highs', '#markets #etoro where to buy minifootball: trending coin surges 281% today', '#markets #etoro where to buy swissborg: chsb pumps 26% on bitfinex news']"
+538,21-08-2021 17:00:00,1629565200.0,48821.87,0,1629565200,0,[]
+539,22-08-2021 17:00:00,1629651600.0,49239.22,1,1629651600,0,[]
+540,23-08-2021 17:00:00,1629738000.0,49488.85,1,1629738000,6,"['#crime #bitcoin sweden to pay 1_5m worth of btc to convicted drug dealer', '#markets #bitcoin bitcoin price breaks above 50k as investors eye more gains', '#markets #etoro where to buy loopring as lrc reignites bull rally with 45% gains', '#markets #etoro where to buy cardano: ada blasts through all-time high', '#markets #etoro is republic of dogs the next dogecoin? where to buy rod after 680% weekly profit', '#markets #etoro where to buy halodao as price reaches near 1 with 67% gains']"
+541,24-08-2021 17:00:00,1629824400.0,47674.01,0,1629824400,7,"['#markets #etoro where to buy enjin: enj up 59% since etoro listing', '#markets #etoro where to buy terra: another ath for luna as price skyrockets', '#markets #etoro where to buy cryptozoon: zoon surges 123% to new highs', 'business bitcoin riot blockchains mining revenue increased by 1540  report', '#policyandregulation #bitcoin cryptocurrency not protected by law says chinese court', '#markets #etoro avax pumps 200% in 2 weeks: where to buy avalanche', '#business #bitcoin substack now accepts bitcoin payments on the lightning network']"
+542,25-08-2021 17:00:00,1629910800.0,48973.32,1,1629910800,5,"['#markets #etoro where to buy permission coin: ask rises 180% as airdrop approaches', '#markets #etoro where to buy marginswap: mfi is up 800% this week', '#analysis #bitcoin btc outlook: bitcoin price near key hurdle as bulls target 49k', '#markets #etoro where to buy binamon: bmon rises 10% ahead of launch', '#markets #etoro where to buy binaryx: bnx price triples, demolishes ath']"
+543,26-08-2021 17:00:00,1629997200.0,46843.87,0,1629997200,6,"['markets bitcoin crypto accounted for 73 of etoros total commissions in q2', '#markets #etoro where to buy binapet as bpet shoots to a new all-time high', '#business #bitcoin powerbridge technologies to acquire 5,600 crypto mining machines', '#markets #etoro where to buy revain: rev cracks top 100 with 20% gain', '#markets #etoro where to buy automata: ata rallies by 111%', '#markets #etoro where to buy zilliqa: zil posts 6% gains despite red market']"
+544,27-08-2021 17:00:00,1630083600.0,49069.9,1,1630083600,7,"['#policyandregulation #bitcoin cuba to recognise and regulate cryptocurrencies for payments', 'markets binance monthly report bitcoin miners cut off from hydroelectric power in chinas yingjiang county', '#markets #etoro where to buy nano dogecoin: ndc surges 276% to new highs', '#markets #etoro where to buy terra: luna records 15% bounce', '#markets #cardano cardano poised near 2_60 as bulls battle negative sentiment', '#markets #etoro where to buy solana: sol sets new all-time high with 20% climb', '#markets #etoro where to buy city: mcfc fan token rises 25% as ronaldo signing looms']"
+545,28-08-2021 17:00:00,1630170000.0,48895.35,0,1630170000,0,[]
+546,29-08-2021 17:00:00,1630256400.0,48767.83,0,1630256400,0,[]
+547,30-08-2021 17:00:00,1630342800.0,46982.91,0,1630342800,0,[]
+548,31-08-2021 17:00:00,1630429200.0,47100.89,1,1630429200,2,"['#analysis #bitcoin bitcoin price analysis: btc faces potential declines to 40k', '#business #bitcoin']"
+549,01-09-2021 17:00:00,1630515600.0,48810.52,1,1630515600,5,"['#markets #etoro where to buy dbuy as 360% rally leads to new highs', '#business #bitcoin el salvador advances bitcoin adoption with 150m fund', '#markets #etoro where to buy miniswap as mini rises by 85%', '#markets #etoro where to buy arweave as ar rises to 63, gaining 10% in 24 hours', 'markets etoro where to buy baepay todays hottest coin']"
+550,02-09-2021 17:00:00,1630602000.0,49246.64,1,1630602000,5,"['#markets #bitcoin bitcoin price hits 50,000 again as major cryptocurrencies rebound', '#markets #etoro where to buy polker: pkr joins bull run with 106% gains', '#markets #etoro where to buy mini cardano: new token surges 500%', '#markets #etoro where to buy iota: altseason arrives with iota registering 28% gains', '#markets #etoro where to buy dogecoin 2_0: 286% surge for doge2']"
+551,02-09-2021 17:00:00,1630602000.0,49246.64,1,1630602000,5,"['#markets #bitcoin bitcoin price hits 50,000 again as major cryptocurrencies rebound', '#markets #etoro where to buy polker: pkr joins bull run with 106% gains', '#markets #etoro where to buy mini cardano: new token surges 500%', '#markets #etoro where to buy iota: altseason arrives with iota registering 28% gains', '#markets #etoro where to buy dogecoin 2_0: 286% surge for doge2']"
+552,03-09-2021 17:00:00,1630688400.0,49999.14,1,1630688400,6,"['#markets #etoro where to buy underminegold: gamefi token umg surges 226%', '#markets #etoro where to buy adventure gold: agld rallies 1,400%', 'opinion bitcoin el salvadors bitcoin law facing resistance from locals', '#markets #etoro where to buy solana as sol overtakes dogecoin', '#markets #etoro where to buy presearch: pre token surges 176% as google aids mass adoption', '#analysis #bitcoin bitcoin, shiba inu, vechain price analysis: what next for btc, shib, and vet?']"
+553,03-09-2021 17:00:00,1630688400.0,49999.14,1,1630688400,6,"['#markets #etoro where to buy underminegold: gamefi token umg surges 226%', '#markets #etoro where to buy adventure gold: agld rallies 1,400%', 'opinion bitcoin el salvadors bitcoin law facing resistance from locals', '#markets #etoro where to buy solana as sol overtakes dogecoin', '#markets #etoro where to buy presearch: pre token surges 176% as google aids mass adoption', '#analysis #bitcoin bitcoin, shiba inu, vechain price analysis: what next for btc, shib, and vet?']"
+554,04-09-2021 17:00:00,1630774800.0,49915.64,0,1630774800,0,[]
+555,04-09-2021 17:00:00,1630774800.0,49915.64,0,1630774800,0,[]
+556,05-09-2021 17:00:00,1630861200.0,51756.88,1,1630861200,0,[]
+557,05-09-2021 17:00:00,1630861200.0,51756.88,1,1630861200,0,[]
+558,06-09-2021 17:00:00,1630947600.0,52663.9,1,1630947600,5,"['#markets #etoro where to buy filecoin: 20% daily gains for fil', '#analysis #ripple xrp price analysis: positive sentiment sees xrp/usd eye 1_50', '#markets #etoro where to buy chainlink: link approaching pre-crash prices', '#markets #etoro where to buy quant: qnt poised for a bull rally with 42% gains', '#markets #etoro where to buy mensa protocol: mensa surges by 207% as bulls prevail']"
+559,06-09-2021 17:00:00,1630947600.0,52663.9,1,1630947600,5,"['#markets #etoro where to buy filecoin: 20% daily gains for fil', '#analysis #ripple xrp price analysis: positive sentiment sees xrp/usd eye 1_50', '#markets #etoro where to buy chainlink: link approaching pre-crash prices', '#markets #etoro where to buy quant: qnt poised for a bull rally with 42% gains', '#markets #etoro where to buy mensa protocol: mensa surges by 207% as bulls prevail']"
+560,07-09-2021 17:00:00,1631034000.0,46863.73,0,1631034000,6,"['#markets #etoro where to buy harmony as one token rises by 12%', '#markets #etoro where to buy maticpad: accelerator platform matpad rises by 200%', '#analysis #ethereum ethereum price analysis: eth bulls target breakout above 4k', '#markets #etoro where to buy polkabridge: 105% gains take pbr to the moon', '#markets #cardano cardano price plunges 10% as sell-off hits the crypto market', '#markets #etoro where to buy sportx: gaming token sx rises by 56%']"
+561,07-09-2021 17:00:00,1631034000.0,46863.73,0,1631034000,6,"['#markets #etoro where to buy harmony as one token rises by 12%', '#markets #etoro where to buy maticpad: accelerator platform matpad rises by 200%', '#analysis #ethereum ethereum price analysis: eth bulls target breakout above 4k', '#markets #etoro where to buy polkabridge: 105% gains take pbr to the moon', '#markets #cardano cardano price plunges 10% as sell-off hits the crypto market', '#markets #etoro where to buy sportx: gaming token sx rises by 56%']"
+562,08-09-2021 17:00:00,1631120400.0,46048.31,0,1631120400,7,"['business bitcoin bitso to provide core services for el salvadors chivo btc wallet', '#markets #etoro where to buy int as the token price rallies with 44% gains', '#markets #etoro where to buy lmch: banking platform latamcash joins bull rally', '#business #bitcoin visa looking to provide crypto services to banks in brazil', '#markets #etoro where to buy moons: dex data explorer platform moontools joins bull run', '#analysis #bitcoin bitcoin price analysis: btc crashes heavily, faces slide below 45k', '#markets #etoro where to buy pcl: savings and trading platform peculium rises by 112%']"
+563,08-09-2021 17:00:00,1631120400.0,46048.31,0,1631120400,7,"['business bitcoin bitso to provide core services for el salvadors chivo btc wallet', '#markets #etoro where to buy int as the token price rallies with 44% gains', '#markets #etoro where to buy lmch: banking platform latamcash joins bull rally', '#business #bitcoin visa looking to provide crypto services to banks in brazil', '#markets #etoro where to buy moons: dex data explorer platform moontools joins bull run', '#analysis #bitcoin bitcoin price analysis: btc crashes heavily, faces slide below 45k', '#markets #etoro where to buy pcl: savings and trading platform peculium rises by 112%']"
+564,09-09-2021 17:00:00,1631206800.0,46395.14,1,1631206800,7,"['#markets #etoro where to buy hegic: options trading platform hegic is up by 88%', '#policyandregulation #bitcoin ukraine is now a step closer to making cryptocurrencies legal', '#policyandregulation #bitcoin russian lawmakers want crypto mining recognised under entrepreneurship law', '#markets #etoro where to buy solfarm: solana yield aggregator tulip rallies by 72%', '#markets #etoro where to buy lifecrypto: life rallies by 273%', '#markets #etoro where to buy vabble: video streaming token vab rises by 94%', '#markets #bitcoin standard chartered analysts more bullish on ether than bitcoin']"
+565,09-09-2021 17:00:00,1631206800.0,46395.14,1,1631206800,7,"['#markets #etoro where to buy hegic: options trading platform hegic is up by 88%', '#policyandregulation #bitcoin ukraine is now a step closer to making cryptocurrencies legal', '#policyandregulation #bitcoin russian lawmakers want crypto mining recognised under entrepreneurship law', '#markets #etoro where to buy solfarm: solana yield aggregator tulip rallies by 72%', '#markets #etoro where to buy lifecrypto: life rallies by 273%', '#markets #etoro where to buy vabble: video streaming token vab rises by 94%', '#markets #bitcoin standard chartered analysts more bullish on ether than bitcoin']"
+566,10-09-2021 17:00:00,1631293200.0,44850.91,0,1631293200,7,"['business bitcoin blockstream taps australias macquarie for green bitcoin mining', '#business #bitcoin swiss exchange six gets licences for crypto trading platform', '#markets #etoro where to buy revain: review token rev is in an uptrend', '#markets #bitcoin weekly report: panama legislator wants the government to accept btc and eth as payment methods', '#markets #etoro where to buy xcad network: youtube rewards token xcad experiences price spike', '#markets #etoro where to buy shibance: woof extends gains with a 70% rise', '#markets #etoro where to buy polkadot: dot poised for another major spike']"
+567,10-09-2021 17:00:00,1631293200.0,44850.91,0,1631293200,7,"['business bitcoin blockstream taps australias macquarie for green bitcoin mining', '#business #bitcoin swiss exchange six gets licences for crypto trading platform', '#markets #etoro where to buy revain: review token rev is in an uptrend', '#markets #bitcoin weekly report: panama legislator wants the government to accept btc and eth as payment methods', '#markets #etoro where to buy xcad network: youtube rewards token xcad experiences price spike', '#markets #etoro where to buy shibance: woof extends gains with a 70% rise', '#markets #etoro where to buy polkadot: dot poised for another major spike']"
+568,11-09-2021 17:00:00,1631379600.0,45173.69,1,1631379600,0,[]
+569,11-09-2021 17:00:00,1631379600.0,45173.69,1,1631379600,0,[]
+570,12-09-2021 17:00:00,1631466000.0,46025.24,1,1631466000,0,[]
+571,12-09-2021 17:00:00,1631466000.0,46025.24,1,1631466000,0,[]
+572,13-09-2021 17:00:00,1631552400.0,44940.73,0,1631552400,8,"['#markets #etoro where to buy gala: gaming token gala gains popularity', 'business bitcoin zimbabwes finance minister pushes for crypto solutions', 'policyandregulation bitcoin up to 40 south korean crypto exchanges face shut down  report', '#business #bitcoin nearly half of brazilians would welcome bitcoin as official currency', 'markets etoro where to buy zort automated trading platforms token zort joins altseason rally', '#markets #etoro where to buy eco value coin: carbon emission trading token evc rises by 45%', '#markets #etoro where to buy smile: defi protocol smile gathers steam', '#business #bitcoin hedge fund brevan howard hires ex-cmt digital ceo amid expansion plans']"
+573,13-09-2021 17:00:00,1631552400.0,44940.73,0,1631552400,8,"['#markets #etoro where to buy gala: gaming token gala gains popularity', 'business bitcoin zimbabwes finance minister pushes for crypto solutions', 'policyandregulation bitcoin up to 40 south korean crypto exchanges face shut down  report', '#business #bitcoin nearly half of brazilians would welcome bitcoin as official currency', 'markets etoro where to buy zort automated trading platforms token zort joins altseason rally', '#markets #etoro where to buy eco value coin: carbon emission trading token evc rises by 45%', '#markets #etoro where to buy smile: defi protocol smile gathers steam', '#business #bitcoin hedge fund brevan howard hires ex-cmt digital ceo amid expansion plans']"
+574,14-09-2021 17:00:00,1631638800.0,47111.52,1,1631638800,8,"['#markets #etoro where to buy launchzone: lz records 10% gains', '#business #bitcoin bitcoin mining firm greenidge merges with', '#markets #etoro where to buy shiba floki: meme token floki surges by 990%', '#analysis #bitcoin bitcoin price analysis: btc sits near critical support at 45k', '#business #bitcoin interactive brokers now supports cryptocurrency trading', '#markets #etoro where to buy cpchain: cpc bulls eye 0_02 level', '#business #bitcoin coinbase plans to raise 1_5 billion from corporate investors', '#markets #etoro where to buy axie infinity: axs token leads altseason rally']"
+575,14-09-2021 17:00:00,1631638800.0,47111.52,1,1631638800,8,"['#markets #etoro where to buy launchzone: lz records 10% gains', '#business #bitcoin bitcoin mining firm greenidge merges with', '#markets #etoro where to buy shiba floki: meme token floki surges by 990%', '#analysis #bitcoin bitcoin price analysis: btc sits near critical support at 45k', '#business #bitcoin interactive brokers now supports cryptocurrency trading', '#markets #etoro where to buy cpchain: cpc bulls eye 0_02 level', '#business #bitcoin coinbase plans to raise 1_5 billion from corporate investors', '#markets #etoro where to buy axie infinity: axs token leads altseason rally']"
+576,15-09-2021 17:00:00,1631725200.0,48121.41,1,1631725200,8,"['biznes africa chainalysis reports africa is worlds thirdfastestgrowing bitcoin economy', '#markets #etoro where to buy plutos network: crypto derivatives token plut joins bull rally', '#business #bitcoin miami accepts 4_5m in miamicoin for city projects', '#opinion #bitcoin ark invest ceo reiterates bitcoin will hit 500,000', '#analysis #ethereum ethereum price flirts with 3,400 amid a potential bearish flip', '#markets #etoro where to buy sonocoin: audio powered sono rises by 154%', '#markets #etoro where to buy axia protocol: index crypto fund axia surges to 0_68', '#markets #etoro where to buy tribeone: haka on a parabolic rise with 42% gains']"
+577,16-09-2021 17:00:00,1631811600.0,47737.82,0,1631811600,7,"['business bitcoin hedge fund billionaire ray dalio i have more crypto than gold', '#markets #etoro where to buy upfire: upr poised for huge rally towards 0_009 region', '#business #bitcoin amc theatres will accept eth, ltc, and bch alongside bitcoin, ceo says', 'markets etoro the mercor finance mrcr token has joined the bull run after consolidating for the past month between the 002004 region', '#markets #etoro where to buy drops ownership power: dop surges to 2_63', '#markets #etoro where to buy avalanche: avax poised to retest ath', '#business #bitcoin fidelity investments held bitcoin etf approval talks with sec']"
+578,17-09-2021 17:00:00,1631898000.0,47299.98,0,1631898000,6,"['#markets #etoro where to buy metis: online education provider mts records 72% gains', '#markets #etoro where to buy moss carbon credit: mco2 registers 2x returns', '#markets #etoro x2p to the moon: where to buy payment network xenon pay', '#markets #etoro where to buy loom network: loom gathers momentum to reach the 0_16 level', '#markets #bitcoin weekly report: more firms launching crypto trading services', '#business #bitcoin paypal officially rolls out crypto service to uk customers']"
+579,18-09-2021 17:00:00,1631984400.0,48292.74,1,1631984400,0,[]
+580,19-09-2021 17:00:00,1632070800.0,47241.75,0,1632070800,0,[]
+581,20-09-2021 17:00:00,1632157200.0,43015.62,0,1632157200,5,"['#markets #etoro where to buy celo: mobile-first crypto celo records 14% rise', '#markets #etoro where to buy interfinex: ifex poised for a bullish breakout', '#markets #bitcoin el salvador buys more bitcoin as btc price dumps to 45k', '#markets #etoro adax records an exponential rise of 45%: where to buy adax', '#markets #etoro where to buy blizzard network: blizz shatters resistance to reach the 3_62 level']"
+582,21-09-2021 17:00:00,1632243600.0,40734.38,0,1632243600,6,"['#markets #etoro where to buy omg network: omg gears up for another rally after 29% gains', '#markets #etoro travel token arv sees huge rally: where to buy ariva', '#markets #etoro where to buy public mint as mint stabilises after v-shaped recovery', '#markets #bitcoin crypto inflows hit 5th straight week: coinshares report', '#markets #etoro where to buy e-money: ngm price is up by 37%', '#analysis #bitcoin bitcoin price outlook: btc seeks fresh upside after brutal retest of 40k']"
+583,22-09-2021 17:00:00,1632330000.0,43543.61,1,1632330000,5,"['#markets #etoro where to buy imagecoin as img delivers 190% returns', '#markets #etoro ufarm token surges by 80%: where to buy unifarm', '#markets #etoro where to buy elrond as egld gears up to retest ath', '#business #bitcoin genesis digital assets raises 431 million in a new funding round', '#markets #etoro where to buy nano dogecoin: indc gears up for huge rally with big buyback program']"
+584,23-09-2021 17:00:00,1632416400.0,44865.26,1,1632416400,4,"['#markets #etoro where to buy polkadot: dot spikes by 10%', '#markets #etoro where to buy gravitoken: grv defies gravity, surges by 797%', '#markets #etoro where to buy vechain as vet delivers 11% returns', '#markets #etoro where to buy loud market as loud announces its arrival with 597% gains']"
+585,24-09-2021 17:00:00,1632502800.0,42810.57,0,1632502800,5,"['#policyandregulation #bitcoin fca and bank of england to collaborate on a blockchain regulatory reporting system', '#markets #etoro where to buy bonus cake after it skyrockets over 300% in 24 hours', '#markets #etoro where to buy terra before new upgrade sends luna price to the moon', 'markets etoro raoul pal thinks ada could do incredibly well where to buy cardano', '#markets #etoro where to buy xhunter: xht pumps 42% before launch of nft game']"
